@@ -1,0 +1,242 @@
+RID101    upper esophageal sphincter
+RID1091   left superior intercostal vein
+RID11143  intraperitoneal
+RID1186   left gonadal vein
+RID119    antrum of stomach
+RID1211   inferior mesenteric vein
+RID1212   superior mesenteric vein
+RID125    lesser curvature of stomach
+RID1303   upper lobe of right lung
+RID13114  surgical neck of humerus
+RID13156  cerebral cortex
+RID13181  cardiovascular system
+RID13217  anatomical space
+RID13301  cartilage tissue
+RID13324  fifth metatarsal
+RID13374  latissimus dorsi muscle
+RID13485  tectal plate
+RID1350   right upper lung zone
+RID1390   left atrium
+RID14102  CA1 field
+RID1431   mediastinal space
+RID1458   vascular pedicle
+RID14619  left cochlear nerve
+RID1516   supraclavicular lymph node
+RID15793  branch of common peroneal nerve
+RID160    splenic flexure of colon
+RID169    pancreaticobiliary system
+RID172    uncinate process of pancreas
+RID188    fundus of gallbladder
+RID1895   acromioclavicular joint
+RID1901   coracoclavicular ligament
+RID1908   articular cartilage of humeral head
+RID1921   middle glenohumeral ligament
+RID1934   scapulothoracic bursa
+RID1973   greater tuberosity of humerus
+RID1982   transverse humeral ligament
+RID1984   lateral epicondyle of humerus
+RID1985   medial epicondyle of humerus
+RID2005   brachialis muscle
+RID2007   tendon of pectoralis major
+RID2009   latissimus dorsi tendon
+RID2035   ulnar collateral ligament of elbow
+RID20424  hippocampal formation
+RID2046   lateral ulnar collateral ligament
+RID2079   triceps tendon
+RID2086   bicipitoradial bursa
+RID2184   waist of scaphoid
+RID2185   proximal pole of scaphoid
+RID2313   flexor retinaculum
+RID238    dome of urinary bladder
+RID2382   extensor carpi ulnaris tendon
+RID2398   ring finger
+RID2496   pectoralis minor muscle
+RID2508   bone of pelvis
+RID251    membranous urethra
+RID25735  thoracic segment of spinal cord
+RID259    urethral sphincter
+RID2617   pelvic cavity
+RID2637   quadratus femoris muscle
+RID2664   head of femur
+RID2668   femoral neck
+RID2671   greater trochanter of femur
+RID2674   intertrochanteric line
+RID2728   iliopsoas tendon
+RID2751   knee joint
+RID2760   articular cartilage of patella
+RID2766   body of lateral meniscus
+RID2767   posterior horn of lateral meniscus
+RID2769   posterior root of lateral meniscus
+RID27723  left ulnar nerve
+RID2776   posterior horn of medial meniscus
+RID2777   posterior root of medial meniscus
+RID2800   oblique popliteal ligament
+RID2806   meniscofemoral ligament
+RID2811   lateral patellar retinaculum
+RID2816   medial patellofemoral ligament
+RID2834   medial patellar plica
+RID2850   popliteus tendon
+RID28516  mediastinal compartment
+RID2854   semitendinosus tendon
+RID28602  sternoclavicular joints
+RID28675  lumbar spine region
+RID28679  pituitary region
+RID28680  perirectal region
+RID28722  adrenal region
+RID28758  first digit
+RID2887   medial tibial plateau
+RID29105  calcaneal apophysis
+RID2912   tibialis anterior muscle
+RID2921   medial head of gastrocnemius muscle
+RID2926   popliteus muscle
+RID29367  ureteral orifice
+RID29384  wall of stomach
+RID29566  wall of esophagus
+RID29656  lumen of bile duct
+RID29663  left kidney
+RID29665  upper gastrointestinal tract
+RID29666  lower gastrointestinal tract
+RID29670  midgut
+RID2977   navicular tuberosity
+RID29786  uterine horn
+RID29859  anterior chest wall
+RID299    fimbria of fallopian tube
+RID2993   great toe
+RID2997   third toe
+RID29997  right lower quadrant of abdomen
+RID30008  anterior abdominal wall
+RID30010  lower anterior abdominal wall
+RID30021  anterior part of pelvis
+RID3004   ankle joint
+RID30043  left labium majus
+RID30148  hepatic biliary tree
+RID30216  posterior wall of stomach
+RID3023   calcaneofibular ligament
+RID30324  right adrenal gland
+RID30325  left adrenal gland
+RID30354  lumen of rectum
+RID30456  lumen of common bile duct
+RID30479  wall of appendix
+RID30685  wall of bile duct
+RID30845  left ureter
+RID30966  portal venous tree
+RID3107   tarsometatarsal joint
+RID31412  wall of duodenum
+RID31428  wall of jejunum
+RID31463  gastroduodenal junction
+RID3159   plantar surface of foot
+RID31601  left internal oblique
+RID31611  right rectus abdominis
+RID31706  submucosa of colon
+RID31763  nephron
+RID3192   flexor digitorum longus tendon
+RID3193   flexor hallucis longus tendon
+RID3196   peroneal tendon
+RID3197   tendon of peroneus brevis
+RID32039  ovarian stroma
+RID32072  cystic lymph node
+RID32232  duodenojejunal junction
+RID32304  right multifidus
+RID32512  proximal part of transverse colon
+RID32829  right ovary
+RID32830  left ovary
+RID32931  wall of cecum
+RID32932  wall of ascending colon
+RID32947  anterior wall of rectum
+RID32951  body cavity
+RID32975  posterior mediastinal space
+RID32982  right anterior pararenal space
+RID32986  right perirenal space
+RID33300  retrocecal recess
+RID33427  inferior pole of left kidney
+RID33536  wall of intestine
+RID33643  peritoneal serosa
+RID33697  posterior wall of urinary bladder
+RID33779  wall of gallbladder
+RID34401  subtalar coalition
+RID34467  hepatic portal vein
+RID34572  thoracic vertebral column
+RID34728  immunodeficiency disorder
+RID34801  testicular vein
+RID35739  lung parenchyma
+RID35744  cuneiform bone
+RID35751  orbital cavity
+RID35812  maxillofacial region
+RID35823  sinusoid
+RID374    tail of epididymis
+RID37994  left renal vein
+RID38034  testicular artery
+RID38996  right testis
+RID38997  left testis
+RID39074  embryo
+RID39310  leaflet of mitral valve
+RID39351  sperm cell
+RID39354  neck of radius
+RID39560  region of hand
+RID39569  whole body
+RID405    rectovesical pouch
+RID40869  ligament of left wrist
+RID41061  distal tendon of pectoralis major
+RID411    peritoneal reflection
+RID41175  tendon of tibialis anterior
+RID41462  tendon of biceps brachii
+RID41789  diaphysis of humerus
+RID41864  diaphysis of femur
+RID41946  left humerus
+RID42282  head of right femur
+RID42347  lateral head of gastrocnemius
+RID425    ileocolic mesentery
+RID43247  sentinel lymph node
+RID433    posterior pararenal space
+RID43408  4 views
+RID43702  right subclavian vein
+RID451    mesenteric lymph node
+RID45750  periosteal reaction
+RID465    inguinal lymph node
+RID48207  muscle of thigh
+RID48211  articularis genus
+RID48214  right rectus femoris
+RID48240  left adductor brevis
+RID48957  patellar retinaculum
+RID48966  fibular collateral ligament
+RID490    left anterior descending artery
+RID49359  right knee
+RID49360  left knee
+RID49392  right knee joint
+RID49393  left knee joint
+RID49781  1 level
+RID510    circumflex coronary artery
+RID544    right coronary artery
+RID5508   nail
+RID552    sinoatrial nodal artery
+RID6072   joint capsule
+RID6119   articular facet
+RID6509   limbic lobe
+RID6516   column of fornix
+RID6537   basal ganglia
+RID6679   rhombencephalon
+RID7122   subperiosteal space
+RID7171   cerebral aqueduct
+RID7285   iliohypogastric nerve
+RID7292   lateral femoral cutaneous nerve
+RID7579   left lobe of thyroid gland
+RID7711   submandibular lymph node
+RID7727   retropharyngeal lymph node
+RID7767   T10 vertebral body
+RID7773   L3 vertebral body
+RID7774   L4 vertebral body
+RID7854   posterior longitudinal ligament
+RID804    posterior cerebral artery
+RID85     dome of liver
+RID9108   ramus of mandible
+RID944    common iliac artery
+RID9534   piriform aperture
+RID9699   extraocular muscle
+RID970    plantar arch
+RID971    anterior tibial artery
+RID9726   extraconal space of orbit
+RID9778   craniocervical junction
+RID9779   temporomandibular joint
+RID9781   compartment of temporomandibular joint
+RID9801   stylohyoid ligament
+RID9939   palate

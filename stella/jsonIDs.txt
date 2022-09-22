@@ -1,0 +1,5616 @@
+99EPAD_933  Body Imaging
+99EPAD_934  Cardiovascular Imaging
+99EPAD_935  Neurointerventional Radiology
+99EPAD_936  Nuclear Medicine and Molecular Imaging
+99EPAD_937  Pediatric Neuroradiology
+99EPAD_938  Thoracic Imaging
+99EPAD_939  Multisystem
+99EPAD_940  Junior Resident
+99EPAD_941  Senior Resident
+99EPAD_942  Fellow
+99EPAD_943  Imaging Proof
+99EPAD_944  Pathologic Proof
+99EPAD_945  Surgical Proof
+99EPAD_946  Unspecified Proof
+99EPAD_947  Teaching file
+99EPAD_949  Not listed
+C0038495    Medical student
+C0344093    Interventional radiology
+C1142375    MRI of whole body
+C1518934    Pediatric radiology
+C173635     Neuroimaging
+C53281      Faculty
+C5395630    Community radiology
+RID10       image quality
+RID10003    oropharynx
+RID10021    hypopharynx
+RID10029    nose
+RID10053    ear
+RID10054    external ear
+RID10058    helix
+RID1008     vein
+RID1010     superior vena cava
+RID10100    tympanic membrane
+RID10109    middle ear cavity
+RID10122    oval window
+RID1013     subclavian vein
+RID1014     axillary vein
+RID10143    mastoid antrum
+RID10149    ossicle
+RID1015     brachial vein
+RID10151    stapes
+RID1016     basilic vein
+RID10163    malleus
+RID1017     cephalic vein
+RID1018     external jugular vein
+RID10199    inner ear
+RID10204    internal opening of vestibular canaliculus
+RID10223    cochlea
+RID1024     internal jugular vein
+RID10242    helicotrema
+RID10248    semicircular duct
+RID10260    saccular duct
+RID10268    otolith
+RID10274    cochlear duct
+RID10311    imaging modality
+RID10312    magnetic resonance imaging
+RID10315    magnetic resonance spectroscopy
+RID10317    functional magnetic resonance imaging
+RID10319    magnetic resonance angiography
+RID10321    computed tomography
+RID10323    quantitative computed tomography
+RID10326    ultrasound
+RID10330    nuclear medicine imaging
+RID10334    single photon emission computed tomography
+RID10336    bremsstrahlung imaging
+RID10337    positron emission tomography
+RID10341    PET-CT
+RID10342    PET-MR
+RID10345    projection radiography
+RID10349    computed radiography
+RID10351    digital radiography
+RID10353    screen-film radiography
+RID10356    dual-energy subtraction radiography
+RID10357    mammography
+RID10358    conventional tomography
+RID10359    tomosynthesis
+RID10361    fluoroscopy
+RID10365    catheter angiography
+RID10367    interventional radiology procedure
+RID10371    angiography
+RID10373    arthrography
+RID10374    diffusion
+RID10375    Doppler
+RID10376    perfusion imaging
+RID10377    spectroscopy
+RID10378    functional
+RID10379    venography
+RID10380    myelography
+RID10381    intervention
+RID10383    portable
+RID10385    dynamic
+RID10386    limited evaluation
+RID10387    complete evaluation
+RID10390    stat
+RID10391    urgent
+RID10392    routine
+RID10394    diagnosis
+RID10397    ablation
+RID10398    aspiration of bodily substance
+RID10401    atherectomy
+RID10402    stent placement
+RID10403    thrombolysis
+RID10404    embolization
+RID10405    temporary occlusion
+RID10406    infusion
+RID10407    repair
+RID10409    measurement type
+RID1041     facial vein
+RID10410    narrow
+RID10412    thrombectomy
+RID10415    device removal
+RID10416    shunt creation
+RID10417    drainage
+RID10418    direct injection
+RID10419    brachytherapy
+RID10420    patient position
+RID10421    supine position
+RID10422    prone position
+RID10423    decubitus position
+RID10424    right lateral decubitus position
+RID10425    left lateral decubitus position
+RID10426    dorsal decubitus position
+RID10427    extension position
+RID10428    hyperextension position
+RID10429    flexion position
+RID10433    external rotation position
+RID10439    lateral decubitus position
+RID1044     supraorbital vein
+RID10440    oblique position
+RID10441    left anterior oblique position
+RID10442    left posterior oblique position
+RID10443    right anterior oblique position
+RID10444    right posterior oblique position
+RID10448    bending position
+RID10449    lordotic position
+RID10450    neutral position
+RID10451    open mouth position
+RID10452    sitting position
+RID10453    standing position
+RID10455    upright position
+RID10459    ventral position
+RID10461    patient orientation
+RID10465    augmentation maneuver
+RID10467    exhalation maneuver
+RID10468    inspiration maneuver
+RID10469    temporal tap
+RID10470    Valsalva maneuver
+RID10471    straining maneuver
+RID10473    Mueller maneuver
+RID10476    physiological stress
+RID10477    exercise stress maneuver
+RID10478    treadmill exercise
+RID10480    Bruce protocol exercise
+RID10482    bicycle exercise
+RID10489    pharmacologic stress
+RID10490    adenosine stress
+RID10491    dipyridamole stress
+RID10492    dobutamine stress
+RID10493    mental stress
+RID10494    breathing maneuver
+RID10503    end expiration
+RID10509    implant displaced
+RID10511    radiographic projection
+RID10514    axial projection
+RID10519    craniocaudal projection
+RID10521    frontal projection
+RID10523    lateral projection
+RID10524    lateromedial projection
+RID10526    mediolateral projection
+RID10527    mediolateral oblique projection
+RID10528    oblique projection
+RID10538    moving grid
+RID10545    entrance skin exposure
+RID10547    entrance air KERMA
+RID10549    dose area product
+RID1055     retromandibular vein
+RID10551    KERMA area product
+RID10553    radiation dose estimate
+RID10554    entrance skin dose
+RID10556    scanning direction
+RID10557    cephalocaudad
+RID10562    automatic bolus tracking
+RID10564    monitoring delay
+RID10568    test bolus technique
+RID10569    imaging plane
+RID10570    coronal plane
+RID10571    longitudinal plane
+RID10573    oblique plane
+RID10574    sagittal plane
+RID10579    axial plane
+RID10583    angular tube current modulation
+RID10597    CT detector
+RID1060     pterygoid plexus
+RID10602    stationary
+RID10603    rotating
+RID10604    translation
+RID10605    scanning electron beam
+RID10607    CT projection radiograph
+RID10623    exact reconstruction
+RID10624    iterative reconstruction
+RID10626    smooth kernel
+RID10632    sharp kernel
+RID10640    birdcage coil
+RID10641    solenoid coil
+RID10649    Helmholtz coil
+RID10674    inversion recovery
+RID10675    saturation recovery
+RID10676    T2 prep
+RID10685    fat saturation
+RID10687    water saturation
+RID10691    spectral inversion
+RID10693    fat inversion
+RID10699    magnetization transfer
+RID107      lower esophageal mucosal ring
+RID10700    spatial saturation
+RID10704    spin labeling
+RID10705    driven equilibrium
+RID10715    tagging pulse
+RID10719    velocity-encoding gradient
+RID10720    bipolar gradient
+RID10722    diffusion weighting
+RID10724    gradient moment nulling
+RID10727    spin lock
+RID10735    radiofrequency spoiling
+RID10737    gradient spoiling
+RID10739    gradient echo
+RID10740    conventional gradient echo
+RID10741    fast gradient echo
+RID10742    gradient and spin echo
+RID10744    echo planar
+RID10746    spin echo
+RID10749    fast-spin echo
+RID10756    conventional spin echo
+RID10757    k-space trajectory
+RID10767    radial k-space trajectory
+RID10772    VIPR k-space trajectory
+RID10773    spiral k-space trajectory
+RID10779    PROPELLER
+RID10782    k-space segmentation
+RID10784    k-space segmented
+RID10785    k-space filter
+RID1079     vertebral vein
+RID10792    intermediate weighted
+RID10794    T1 weighted
+RID10795    T2 weighted
+RID10796    T2* weighted
+RID10799    diffusion weighted
+RID10806    microscopy coil
+RID10808    endoluminal coil
+RID10809    endorectal coil
+RID10810    endovascular coil
+RID10812    interventional coil
+RID10815    radiofrequency coil
+RID10839    gradient coil
+RID10844    shim coil
+RID10854    curved transducer
+RID10855    linear transducer
+RID10867    ultrasound transducer
+RID10868    mechanical transducer
+RID10877    linear array transducer
+RID10884    single crystal transducer
+RID10887    curved linear array transducer
+RID10891    endovaginal transducer
+RID10895    transesophageal transducer
+RID10897    curved array transducer
+RID10898    phased array transducer
+RID10903    A-mode ultrasound
+RID10904    B-mode ultrasound
+RID10907    C-mode ultrasound
+RID10908    Doppler mode
+RID10909    color Doppler mode
+RID10910    power Doppler mode
+RID10911    spectral Doppler mode
+RID10913    harmonic ultrasound
+RID10915    M-mode
+RID10916    stimulated acoustic emission
+RID10920    three dimensional ultrasound
+RID10922    duplex ultrasound
+RID10923    triplex ultrasound
+RID10924    extended field of view ultrasound
+RID10928    cine loop
+RID10930    volume imaging
+RID10932    elastography
+RID10933    strain imaging
+RID10935    collimator
+RID10936    pinhole collimator
+RID1094     cavernous sinus
+RID10943    parallel hole collimator
+RID10963    positron emission tomography camera
+RID10965    gamma camera
+RID10969    single detector
+RID10970    multi-detector
+RID10972    cadmium telluride
+RID10973    cadmium zinc telluride
+RID10983    PIN diode
+RID10987    CT attenuation correction
+RID10988    MR attenuation correction
+RID10995    BGO
+RID10997    LSO
+RID10999    LYSO
+RID11       exemplary quality
+RID11001    GSO
+RID11003    NaI
+RID11006    anesthesia
+RID11007    general anesthesia
+RID11008    local anesthesia
+RID11009    tumescent anesthesia
+RID11010    regional anesthesia
+RID11011    epidural anesthesia
+RID11012    spinal anesthesia
+RID11014    deep sedation
+RID11015    moderate sedation
+RID11016    mild sedation
+RID11031    angioplasty
+RID11032    track dilation
+RID11034    cholangioplasty
+RID11036    urinary tract dilatation
+RID11039    compliant balloon
+RID1104     central retinal vein
+RID11041    cutting balloon
+RID11046    balloon catheter
+RID11050    high-pressure balloon
+RID11051    low-pressure balloon
+RID11053    hydrophilic wire
+RID11055    stiff wire
+RID11065    direct application
+RID11073    test bolus
+RID11075    immediate complication
+RID11076    early complication
+RID11077    late complication
+RID11079    enhancement phase
+RID11080    arterial phase
+RID11081    delayed phase
+RID11082    early arterial phase
+RID11083    early venous phase
+RID11084    late venous phase
+RID11085    portal venous phase
+RID11086    unenhanced phase
+RID11087    route of administration
+RID11090    buccal
+RID11091    conjunctival
+RID11092    cutaneous
+RID11093    dental
+RID11095    endocervical
+RID11098    endotracheal
+RID11099    enteral
+RID11102    extracorporeal
+RID11103    hemodialysis
+RID11104    infiltration route
+RID11106    intra-abdominal
+RID11107    intra-amniotic
+RID11108    intra-arterial
+RID11109    intra-articular
+RID11110    intrabiliary
+RID11111    intrabronchial
+RID11112    intrabursal
+RID11113    intracardiac
+RID11116    intracavernous
+RID11117    intracavitary
+RID11118    intracerebral
+RID11119    intracisternal
+RID11120    intracorneal
+RID11122    intracoronary
+RID11124    intradermal
+RID11125    intradiscal
+RID11126    intraductal
+RID11127    intraduodenal
+RID11128    intradural
+RID11129    intraepidermal
+RID11131    intragastric
+RID11134    intralesional
+RID11135    intraluminal
+RID11136    intralymphatic
+RID11137    intramedullary
+RID11139    intramuscular
+RID11140    intraocular
+RID11141    intraovarian
+RID11142    intrapericardial
+RID11144    intrapleural
+RID11145    intraprostatic
+RID11146    intrapulmonary
+RID11148    intraspinal
+RID11149    intrasynovial
+RID11150    intratendinous
+RID11151    intratesticular
+RID11153    intrathoracic
+RID11155    intratubular
+RID11156    intratumor
+RID11157    intratympanic
+RID11158    intrauterine
+RID11159    intravascular
+RID11160    intravenous
+RID11161    intravenous bolus
+RID11163    intraventricular
+RID11164    intravesical
+RID11165    intravitreal
+RID11166    iontophoresis
+RID11167    irrigation
+RID11168    laryngeal
+RID11169    nasal
+RID11170    nasogastric
+RID11172    ophthalmic
+RID11173    oral
+RID11174    oropharyngeal
+RID11175    parenteral
+RID11176    percutaneous
+RID11179    perineural
+RID11180    periodontal
+RID11181    rectal
+RID11182    respiratory
+RID11184    retrobulbar
+RID11186    soft tissue administration
+RID11187    subconjunctival
+RID11188    subcutaneous
+RID11190    sublingual
+RID11191    submucosal
+RID11192    topical
+RID11193    transdermal
+RID11194    transmucosal
+RID11195    transplacental
+RID11196    transtracheal
+RID11197    transtympanic
+RID11198    ureteral
+RID11199    urethral
+RID11200    vaginal
+RID11202    cut down
+RID11203    open surgical
+RID11206    transpleural
+RID11207    transarterial
+RID11208    transvenous
+RID11209    laparascopic
+RID11210    endoscopic
+RID11211    embolic agent
+RID11213    absorbable gelatin sponge
+RID11215    polyvinyl alcohol
+RID11217    calibrated microspheres
+RID11218    glue
+RID1122     transverse sinus
+RID11223    prospective gating
+RID11224    retrospective gating
+RID11225    volume rendering method
+RID11226    orthographic volume rendering
+RID11227    perspective volume rendering
+RID11233    printed digital images
+RID11234    images printed on film
+RID11237    breathing control
+RID11240    triggering
+RID11241    respiratory triggering
+RID11243    bellows
+RID11245    cardiac triggering
+RID11246    gating
+RID11247    respiratory gating
+RID11248    cardiac gating
+RID11249    peripheral pulse gating
+RID11254    imaging error
+RID11258    no marker
+RID11262    missing images
+RID11273    image defect
+RID11274    overexposure
+RID11277    underexposure
+RID1128     vein of Trolard
+RID11280    noisy image
+RID11281    suboptimal patient positioning
+RID11286    double exposure
+RID11287    noise artifact
+RID11296    artifact
+RID11308    patient motion
+RID11314    intervening foreign body
+RID11319    dose extravasation
+RID1132     dose extravasation
+RID11320    activity at injection site
+RID11321    abnormal uptake kinetics
+RID11324    streaking artifact
+RID11325    ring artifact
+RID11326    shading artifact
+RID11327    beam hardening artifact
+RID11329    scatter artifact
+RID11332    cone-beam effect artifact
+RID11334    metal artifact
+RID11336    zipper artifact
+RID11353    stripe artifact
+RID11354    star artifact
+RID11355    synchronous RF noise artifact
+RID11368    magnetic field perturbation artifact
+RID11374    chemical shift artifact
+RID11388    aliasing artifact
+RID11397    out of plane wrap around artifact
+RID114      stomach
+RID11403    suboptimal gradient artifact
+RID11404    gradient nonlinearity
+RID11407    eddy currents
+RID11413    conductivity artifact
+RID11424    smearing
+RID11426    ghost
+RID11438    flow-related artifact
+RID11452    intravoxel dephasing
+RID11458    flow-related ghost artifact
+RID11460    stimulated echo ghost artifact
+RID11470    truncation artifact
+RID11481    partial volume averaging
+RID11485    magic angle artifact
+RID11486    off-resonance effect
+RID11487    banding artifact
+RID11489    saturation artifact
+RID11496    technical success
+RID11497    anatomic success
+RID11498    hemodynamic success
+RID11499    clinical success
+RID115      gastric cardia
+RID11502    technique effectiveness
+RID11506    patency
+RID11507    primary patency
+RID11508    assisted primary patency
+RID11509    secondary patency
+RID11510    therapeutic response
+RID11512    residual disease
+RID11513    partial response
+RID11514    stable disease
+RID11515    progressive disease
+RID11517    index tumor
+RID1152     basal vein
+RID11520    local tumor progression
+RID11521    regression
+RID11522    side effect
+RID11524    morbidity
+RID11525    complication
+RID11528    infectious complication
+RID11529    abscess complication
+RID11534    cardiovascular complication
+RID11535    myocardial infarction complication
+RID11543    bleeding complication
+RID11544    hematoma complication
+RID11546    neurologic complication
+RID11548    stroke complication
+RID11549    pulmonary complication
+RID11551    pneumothorax complication
+RID11552    pulmonary embolism complication
+RID1156     epidural venous plexus
+RID11564    stricture complication
+RID11565    response to treatment
+RID11567    response to embolization
+RID11568    absence of flow
+RID1157     basivertebral venous plexus
+RID11570    absence of bleeding
+RID11572    patent vessel
+RID11575    absence of thrombus
+RID11582    contrast agent
+RID11583    iodinated contrast agent
+RID11585    ionic iodinated contrast agent
+RID11588    barium sulfate suspension
+RID11590    air contrast
+RID11591    carbon dioxide contrast
+RID11594    Xenon contrast
+RID11595    water contrast
+RID11596    oil contrast
+RID11599    microbubbles contrast
+RID116      gastric fundus
+RID11604    targeted microbubbles
+RID11610    paramagnetic agent
+RID11611    ferric chloride
+RID11612    ferric ammonium citrate
+RID11613    gadolinium chelate
+RID11616    gadoterate meglumine
+RID11619    gadopentetate dimeglumine
+RID11622    gadobenate dimeglumine
+RID11626    gadofosveset trisodium
+RID11629    gadodiamide
+RID11631    gadoversetamide
+RID11634    gadoteridol
+RID11636    gadobutrol
+RID11638    superparamagnetic contrast agent
+RID11641    superparamagnetic iron oxide
+RID11643    ferumoxides
+RID11645    ultrasmall superparamagnetic iron oxide
+RID11647    ferumoxtran-10
+RID11661    blood pool contrast agent
+RID11667    monoclonal antibody
+RID11672    nitroxide
+RID11675    ferrioxamine
+RID11677    hepatobiliary contrast agent
+RID11678    Manganese chloride
+RID11689    Gadolinium oxide
+RID1169     azygos vein
+RID11692    radiopharmaceutical
+RID11695    radioisotope
+RID11697    investigational
+RID117      body of stomach
+RID1170     azygos arch
+RID11701    Fluorine-18 fluorodeoxyglucose
+RID11703    Gallium-67
+RID11708    Indium-111 capromab pendetide
+RID11710    Indium-111 pentetreotide
+RID11720    I-131 metaiodobenzylguanidine
+RID11722    P-32 chromic phosphate
+RID11724    Rubidium-82
+RID11727    Strontium-89
+RID11728    Tc-99m pertechnetate
+RID11729    Tc-99m apcitide
+RID11737    Tc-99m macroaggregated albumin
+RID11741    Tc-99m mertiatide
+RID11745    Tc-99m Pyrophosphate
+RID11749    Tc-99m sestamibi
+RID11751    Tc-99m sulfur colloid
+RID11752    Tc-99m tetrofosmin
+RID11753    Thallium-201
+RID11755    Xenon-133
+RID11756    chemical element
+RID11762    hydrogen
+RID11764    helium
+RID11766    lithium
+RID11768    beryllium
+RID1177     hemiazygous vein
+RID11770    boron
+RID11772    carbon
+RID11774    nitrogen
+RID11776    oxygen
+RID11778    fluorine
+RID1178     inferior vena cava
+RID11780    neon
+RID11782    sodium
+RID11784    magnesium
+RID11786    aluminum
+RID11788    silicon
+RID1179     hepatic vein
+RID11790    phosphorus
+RID11792    sulfur
+RID11794    chlorine
+RID11796    argon
+RID11798    potassium
+RID1180     left hepatic vein
+RID11800    calcium
+RID11802    scandium
+RID11804    titanium
+RID11808    chromium
+RID1181     middle hepatic vein
+RID11810    manganese
+RID11812    iron
+RID11814    cobalt
+RID11816    nickel
+RID11818    copper
+RID1182     right hepatic vein
+RID11820    zinc
+RID11822    gallium
+RID11824    germanium
+RID11826    arsenic
+RID11828    selenium
+RID11830    bromine
+RID11832    krypton
+RID11834    rubidium
+RID11836    strontium
+RID11838    yttrium
+RID1184     renal vein
+RID11840    zirconium
+RID11844    molybdenum
+RID11846    technetium
+RID11848    ruthenium
+RID11850    rhodium
+RID11852    palladium
+RID11854    silver
+RID11856    cadmium
+RID11858    indium
+RID11860    tin
+RID11862    antimony
+RID11866    iodine
+RID11868    xenon
+RID11870    cesium
+RID11872    barium
+RID11874    lanthanum
+RID11876    cerium
+RID11880    neodymium
+RID11884    samarium
+RID11886    europium
+RID11888    gadolinium
+RID11890    terbium
+RID11892    dysprosium
+RID11894    holmium
+RID11896    erbium
+RID11900    ytterbium
+RID11902    lutetium
+RID11904    hafnium
+RID11906    tantalum
+RID11908    tungsten
+RID11910    rhenium
+RID11912    osmium
+RID11914    iridium
+RID11916    platinum
+RID11918    gold
+RID1192     lumbar vein
+RID11920    mercury
+RID11922    thallium
+RID11924    lead
+RID11926    bismuth
+RID1193     common iliac vein
+RID11930    astatine
+RID11932    radon
+RID11936    radium
+RID11938    actinium
+RID1194     internal iliac vein
+RID11940    thorium
+RID11944    uranium
+RID1195     external iliac vein
+RID1196     common femoral vein
+RID1199     femoral vein
+RID11998    cranial nerve
+RID12       diagnostic quality
+RID12003    optic nerve
+RID12007    canalicular part of optic nerve
+RID12015    oculomotor nerve
+RID1202     lesser saphenous vein
+RID12024    trigeminal nerve
+RID12029    trigeminal ganglion
+RID12030    ophthalmic nerve
+RID12053    maxillary nerve
+RID1207     posterior tibial vein
+RID12077    infraorbital nerve
+RID1208     portal vein
+RID1209     splenic vein
+RID12112    mental nerve
+RID12119    facial nerve
+RID12123    canalicular segment of facial nerve
+RID1215     cardiac vein
+RID1216     coronary sinus
+RID12187    vagus nerve
+RID122      pylorus
+RID12203    recurrent laryngeal nerve
+RID12221    accessory nerve
+RID1223     middle cardiac vein
+RID12230    hypoglossal nerve
+RID12244    tube potential
+RID12249    target angle
+RID12258    source-to-image distance
+RID12262    source-to-object distance
+RID12266    source-to-skin distance
+RID12289    image hold
+RID12290    spot image
+RID12293    image overlay
+RID12294    roadmap image
+RID1231     pulmonary vein
+RID12321    single source
+RID12322    dual source
+RID12323    multi-source
+RID12337    scan mode
+RID12344    tube current-time product
+RID12350    linear attenuation coefficient
+RID12351    fixed tube current
+RID12355    acquisition field of view
+RID12356    acquisition duration
+RID12357    volume CT dose index
+RID12359    CT dose length product
+RID12366    table speed
+RID12370    effective mAs
+RID12372    beam collimation
+RID12382    beam pitch
+RID12395    half-scan
+RID12398    section thickness
+RID12402    section gap
+RID12405    section interval
+RID12418    continuous exposure
+RID1243     thorax
+RID12442    pulse sequence
+RID1245     airway
+RID12451    b-value
+RID12458    inversion time
+RID12463    echo time
+RID12468    bandwidth
+RID1247     trachea
+RID12470    flip angle
+RID12471    frequency matrix
+RID1248     carina
+RID1249     bronchus
+RID12508    molecular imaging
+RID12535    at rest
+RID12536    during symptoms
+RID12645    isotropic voxels
+RID12646    near-isotropic voxels
+RID12671    Fourier reconstruction
+RID12673    discrete Fourier transform
+RID12675    fast Fourier transform
+RID12678    gridding
+RID12681    magnitude reconstruction
+RID12683    phase reconstruction
+RID12686    phase unwrapping
+RID12691    parallel imaging reconstruction
+RID12693    GRAPPA reconstruction
+RID12696    SENSE reconstruction
+RID12698    apparent diffusion coefficient map
+RID12701    fractional anisotropy map
+RID12703    relative anisotropy map
+RID12705    tractography
+RID12707    cerebral blood flow map
+RID12709    mean transit time map
+RID12715    surface coil intensity correction
+RID12716    gradient nonlinearity correction
+RID12719    interpolation
+RID12720    zero-filling
+RID12726    partial Fourier reconstruction
+RID12732    homodyne
+RID12738    view-sharing
+RID12740    keyhole
+RID12741    TRICKS
+RID12742    BRISK
+RID12749    image fusion
+RID12752    software image fusion
+RID12755    parametric mapping
+RID12756    subtraction imaging
+RID12759    reformat procedure step
+RID12760    intensity projection
+RID12762    maximum intensity projection
+RID12764    minimum intensity projection
+RID12766    average intensity projection
+RID12768    ray sum
+RID12769    volume rendering
+RID12772    curved planar reformation
+RID12773    shaded surface display
+RID12775    image segmentation
+RID12776    image registration
+RID12777    motion correction
+RID12780    calculation
+RID12785    signal intensity calculation
+RID12787    time-activity curve
+RID12790    quantitation
+RID12792    calculated attenuation correction method
+RID12793    filtering
+RID12794    smoothing
+RID12795    temporal smoothing
+RID12796    spatial smoothing
+RID12806    power injector
+RID12809    manual injection
+RID12814    drip infusion
+RID12815    bolus infusion
+RID12890    peel away sheath
+RID12895    curved sheath
+RID12899    hydrophilic dilator
+RID12913    balloon material
+RID12915    inflation pressure
+RID12917    deployment technique
+RID12925    basket retrieval
+RID12927    snare retrieval
+RID12932    core needle
+RID12933    fine-needle aspiration
+RID12935    forceps
+RID12939    drainage device
+RID12948    stasis of flow
+RID12949    slow flow
+RID12952    proximal embolization
+RID12953    distal embolization
+RID12959    iodized oil
+RID1296     small airway component
+RID12963    radiation dose
+RID12973    electrode applicator
+RID12982    bipolar applicator
+RID13       limited quality
+RID130      intestine
+RID1301     lung
+RID13021    continuous delivery
+RID13025    suction
+RID13027    clot disruption
+RID13034    pressure
+RID13035    flow
+RID13042    dilution method
+RID13043    transcutaneous Doppler
+RID13046    retrograde
+RID13047    antegrade
+RID13055    single interpretation
+RID13057    interpretation with CAD
+RID13058    blinded interpretation
+RID13060    imaging procedure
+RID13066    area of interest
+RID13070    priority
+RID1310     middle lobe of lung
+RID13159    patient identifier
+RID13160    patient name
+RID13161    medical record number
+RID13162    patient date of birth
+RID13163    patient age
+RID13164    patient gender
+RID13166    clinical information section
+RID13169    comparison image
+RID13173    Normal
+RID13176    English
+RID13177    Latin
+RID13178    German
+RID13183    arterial system
+RID13184    venous system
+RID13187    nerve plexus
+RID13189    nerve
+RID13191    ganglion
+RID132      small intestine
+RID13203    organ
+RID13208    skeletal system
+RID13209    musculoskeletal system
+RID13211    pharynx
+RID13212    Normal variant
+RID13222    foramen
+RID13232    condyle
+RID13250    anatomical plane
+RID13252    tubular structure
+RID13253    set of cells
+RID13257    membrane
+RID13280    fascia
+RID13284    face
+RID13295    duct
+RID13296    lymph node
+RID13298    portion of tissue
+RID13303    middle ear
+RID13310    supracondylar process
+RID13315    inguinal ligament
+RID13320    master knot of henry
+RID1333     lingula
+RID13390    anatomical structure
+RID134      duodenum
+RID13421    salivary gland
+RID13427    free edge of meniscus
+RID13428    globular
+RID13432    diameter
+RID13433    subcentimeter
+RID13437    lungs
+RID13440    caliber
+RID13446    peripheral nervous system
+RID13449    cervical nerve
+RID13451    lumbar nerve
+RID13452    sacral nerve
+RID1347     lung zone
+RID135      duodenal bulb
+RID1354     lower lung zone
+RID1361     secondary pulmonary lobule
+RID1362     pleura
+RID1363     pleural space
+RID137      second part of duodenum
+RID1370     parietal pleura
+RID1371     visceral pleura
+RID1372     pleural fissure
+RID13783    wall of arachnoid granulation
+RID1384     mediastinum
+RID1385     heart
+RID1386     cardiac chamber
+RID1389     right ventricle
+RID1391     left atrial appendage
+RID1392     left ventricle
+RID1393     heart valve
+RID1394     aortic valve
+RID1395     mitral valve
+RID1396     pulmonic valve
+RID1397     tricuspid valve
+RID1398     myocardium
+RID1399     endocardium
+RID14       non-diagnostic quality
+RID1403     interatrial septum
+RID1407     pericardium
+RID1408     pericardial cavity
+RID1413     transverse pericardial sinus
+RID1424     fibrous pericardium
+RID1426     epicardium
+RID1429     pericardial fat pad
+RID1430     thymus
+RID1432     thoracic inlet
+RID1433     anterior mediastinum
+RID1434     anterior junction line
+RID1439     retrosternal space
+RID144      third part of duodenum
+RID146      fourth part of duodenum
+RID147      ligament of Treitz
+RID148      jejunum
+RID150      ileum
+RID151      terminal ileum
+RID152      large intestine
+RID1524     diaphragm
+RID1527     dome of diaphragm
+RID153      ileocecal valve
+RID1538     fat
+RID154      cecum
+RID1541     ascites
+RID1543     blood
+RID1545     chyle
+RID1546     feces
+RID1547     fluid
+RID1548     gastric acid
+RID1551     meconium
+RID1552     mucus
+RID1553     pancreatic secretion
+RID1555     pus
+RID1556     sebum
+RID15567    cavity of brain
+RID15568    lumen of central canal of spinal cord
+RID1557     sweat
+RID1559     procedure
+RID156      cecal bascule
+RID1560     surgical procedure
+RID1561     cardiovascular surgery
+RID1562     cardiac transplantation
+RID1563     pediatric cardiac surgery
+RID15637    induseum griseum
+RID1565     Glenn shunt
+RID15654    benign
+RID15655    malignant
+RID1566     Blalock-Taussig shunt
+RID1567     Waterston shunt
+RID1569     Norwood procedure
+RID157      ascending colon
+RID1570     arterial switch
+RID1571     Fontan procedure
+RID1573     ear surgery
+RID1580     tympanoplasty
+RID1583     cricopharyngeal myotomy
+RID1584     colonic interposition
+RID1585     diverticulectomy
+RID15857    nerve trunk
+RID1588     esophageal dilatation
+RID1589     esophageal intubation
+RID159      transverse colon
+RID1591     esophageal varices therapy
+RID1593     endoscopic sclerotherapy
+RID1600     esophagectomy
+RID1601     esophagogastrectomy
+RID1602     gastroesophageal anastomosis
+RID1604     Heller myotomy
+RID1607     laryngectomy
+RID1609     antrectomy
+RID161      descending colon
+RID1610     bariatric surgery
+RID1611     adjustable gastric band
+RID1612     horizontal gastroplasty
+RID1613     vertical-banded gastroplasty
+RID1615     gastric bypass
+RID1617     gastric banding
+RID1619     duodenal switch
+RID162      sigmoid colon
+RID1621     Billroth II procedure
+RID1622     Collis gastroplasty
+RID1623     cystogastrostomy
+RID1624     pyloric exclusion
+RID1625     gastric pouch
+RID1626     gastric pull-through
+RID1627     gastric resection
+RID163      rectum
+RID1630     gastroduodenostomy
+RID1631     gastroenterostomy
+RID1632     gastrojejunostomy
+RID1633     gastropexy
+RID1634     gastrostomy
+RID1635     Nissen fundoplication
+RID1636     pyloroplasty
+RID1637     pyloromyotomy
+RID1639     vagotomy
+RID164      anus
+RID1640     liver surgery
+RID1641     hepatectomy
+RID1642     hepatic lobectomy
+RID1643     hepatic segmentectomy
+RID1647     chemoembolization
+RID1649     transplantation
+RID165      anal sphincter
+RID16515    neural network
+RID1652     splenectomy
+RID1653     splenorrhaphy
+RID1655     pancreatic transplantation
+RID1657     pancreaticoduodenectomy
+RID1658     pancreatectomy
+RID166      epiploic appendage
+RID1663     Beger Procedure
+RID1664     Frey procedure
+RID167      haustra
+RID1670     cholecystectomy
+RID1671     cholecystostomy
+RID1672     dropped gallstones
+RID1674     sphincterotomy
+RID1678     biliopancreatic diversion
+RID168      appendix
+RID1682     choledochocholedochostomy
+RID1683     choledochoduodenostomy
+RID1684     choledochojejunostomy
+RID1685     hepaticojejunostomy
+RID1686     small bowel surgery
+RID1687     blind pouch
+RID1688     blind loop
+RID1690     enterectomy
+RID1691     Enterotomy
+RID1692     enterostomy
+RID1693     ileostomy
+RID1694     jejunostomy
+RID1695     gastroileostomy
+RID1696     ileal reservoir
+RID17       perceptual difficulty
+RID170      pancreas
+RID1701     J pouch
+RID1702     S pouch
+RID1705     jejunoileal bypass
+RID1706     plication
+RID1708     stricturoplasty
+RID1709     cystojejunostomy
+RID171      head of pancreas
+RID1710     colon surgery
+RID1711     appendectomy
+RID1712     cecostomy
+RID1713     colonic resection
+RID1715     anterior resection
+RID1716     low anterior resection
+RID1717     abdominoperineal resection
+RID1718     right hemicolectomy
+RID1719     left hemicolectomy
+RID1720     total colectomy
+RID1721     total proctocolectomy
+RID1722     subtotal colectomy
+RID1723     colostomy
+RID1724     end colostomy
+RID1725     loop colostomy
+RID1728     Hartmann pouch
+RID1729     bowel anastomosis
+RID173      neck of pancreas
+RID1732     ileocecectomy
+RID1733     ileosigmoid anastomosis
+RID1735     coloanal anastomosis
+RID1736     mucous fistula
+RID1737     polypectomy
+RID174      body of pancreas
+RID1740     omentectomy
+RID1742     abdominoplasty
+RID1743     herniorrhaphy
+RID1744     kidney surgery
+RID1745     nephrectomy
+RID1746     nephrostomy
+RID1747     pyeloplasty
+RID1749     renal autotransplantation
+RID175      tail of pancreas
+RID1750     percutaneous nephrostolithotomy
+RID1751     nephroureterectomy
+RID1754     cryoablation
+RID1756     adrenalectomy
+RID1758     ureterostomy
+RID176      pancreatic duct
+RID1762     ureterectomy
+RID1763     ureteroneocystostomy
+RID1764     ureteral reimplantation
+RID1765     ureterolysis
+RID1766     endopyelotomy
+RID1769     partial cystectomy
+RID177      main pancreatic duct
+RID1770     cystoprostatectomy
+RID1771     cystectomy
+RID1774     cystotomy
+RID1775     vesicostomy
+RID1777     urinary diversion
+RID1778     ileal conduit
+RID1783     Indiana pouch
+RID1786     urethral surgery
+RID1787     urethroplasty
+RID1789     hypospadias repair
+RID1790     urethrectomy
+RID1793     prostate surgery
+RID1794     prostatectomy
+RID1795     androgen ablation therapy
+RID1799     orchiectomy
+RID18       Basic Perceptual Difficulty
+RID1800     testicular prosthesis
+RID1801     orchiopexy
+RID1804     varicocelectomy
+RID1805     vasectomy
+RID1809     lymph node dissection
+RID1810     lymphadenectomy
+RID1812     salpingo-oophorectomy
+RID18155    field H
+RID1817     uterine artery embolization
+RID1818     dilation and curettage
+RID182      accessory pancreatic duct
+RID1820     dilation and evacuation
+RID1822     myomectomy
+RID1823     Cesarean section
+RID1825     abortion
+RID18258    first sacral nerve
+RID1826     hysterectomy
+RID1830     vaginectomy
+RID1832     episiotomy
+RID1836     vaginal delivery
+RID1837     orthopedic surgery
+RID1839     vertebroplasty
+RID1840     kyphoplasty
+RID18402    sympathetic nervous system
+RID1841     fracture fixation
+RID1842     osteotomy
+RID1844     arthrodesis
+RID1845     arthroplasty
+RID1846     unicompartmental arthroplasty
+RID1847     hemiarthroplasty
+RID1848     bone grafting
+RID1849     radiofrequency ablation
+RID1850     upper extremity
+RID1854     clavicle
+RID1856     conoid tubercle
+RID18593    nerve root
+RID1860     scapula
+RID1862     acromion
+RID1863     coracoid process
+RID1864     glenoid cavity
+RID1869     spinoglenoid notch
+RID187      gallbladder
+RID1884     sternoclavicular joint
+RID189      body of gallbladder
+RID19       Intermediate Perceptual Difficulty
+RID190      neck of gallbladder
+RID1905     glenohumeral joint
+RID1909     glenoid labrum
+RID191      bile duct
+RID1911     biceps anchor
+RID1914     coracohumeral ligament
+RID1916     glenohumeral ligament
+RID1917     inferior glenohumeral ligament
+RID1922     superior glenohumeral ligament
+RID193      left hepatic duct
+RID1931     sublabral recess of glenohumeral joint
+RID1936     deltoid muscle
+RID1937     trapezius muscle
+RID1938     rotator cuff muscle
+RID1939     infraspinatus muscle
+RID1940     subscapularis muscle
+RID1941     supraspinatus muscle
+RID1942     teres minor muscle
+RID1951     subscapularis tendon
+RID1953     supraspinatus tendon
+RID1958     subacromial-subdeltoid bursa
+RID19602    first lumbar nerve
+RID1963     quadrilateral space
+RID19632    inferior occipitofrontal fasciculus
+RID1965     rotator interval
+RID1966     supraspinatus outlet
+RID19664    field H2
+RID1968     arm
+RID1971     humerus
+RID198      extrahepatic duct
+RID19831    sympathetic ganglion
+RID19834    superior cervical ganglion
+RID199      common bile duct
+RID19940    enteric ganglion
+RID1996     biceps brachii muscle
+RID1999     triceps brachii muscle
+RID20       Advanced Perceptual Difficulty
+RID200      common hepatic duct
+RID2003     long head of triceps muscle
+RID20048    spinal epidural space
+RID201      cystic duct
+RID2010     elbow
+RID2011     elbow joint
+RID2016     radiocapitellar joint
+RID20379    gray matter of anterior cingulate gyrus
+RID204      urinary tract
+RID20407    frontal pole
+RID205      kidney
+RID206      upper pole of kidney
+RID2066     lacertus fibrosis
+RID2068     common extensor tendon
+RID207      lower pole of kidney
+RID20809    nucleus raphe magnus
+RID2082     olecranon bursa
+RID21016    globus pallidus
+RID2104     cubital tunnel retinaculum
+RID2107     forearm
+RID2109     radius
+RID211      cortex of kidney
+RID2110     radial tuberosity
+RID2119     ulna
+RID2120     olecranon process
+RID2126     sublime tubercle
+RID2128     radial notch
+RID213      medulla of kidney
+RID2132     ulnar styloid
+RID2142     brachioradialis muscle
+RID2144     extensor carpi radialis brevis muscle
+RID2145     extensor carpi radialis longus muscle
+RID2146     extensor carpi ulnaris muscle
+RID2148     extensor digiti minimi muscle
+RID2149     anconeus muscle
+RID2160     pronator teres muscle
+RID2161     flexor carpi radialis muscle
+RID2162     palmaris longus muscle
+RID2163     flexor carpi ulnaris muscle
+RID2164     flexor digitorum superficialis muscle
+RID2169     flexor pollicis longus muscle
+RID2171     pronator quadratus muscle
+RID2174     interosseous membrane
+RID2177     wrist
+RID2181     scaphoid
+RID2187     lunate
+RID2189     triquetrum
+RID2191     pisiform
+RID2193     trapezium
+RID2195     trapezoid
+RID2197     capitate
+RID2198     hamate
+RID22       Basic Analytical Difficulty
+RID2200     hook of hamate
+RID2202     wrist joint
+RID2211     radioscaphoid joint
+RID223      renal collecting system
+RID2234     meniscal homologue
+RID2241     scapholunate joint
+RID2242     lunotriquetral joint
+RID2245     midcarpal joint
+RID2259     scapholunate ligament
+RID2260     lunotriquetral ligament
+RID22642    lumbosacral trunk
+RID22696    optic tract
+RID22795    intercostal nerve
+RID228      renal pelvis
+RID229      ureter
+RID23       Intermediate Analytical Difficulty
+RID230      ureteropelvic junction
+RID2310     anatomical snuffbox
+RID2314     carpal tunnel
+RID2316     Guyon canal
+RID2318     hand
+RID2320     metacarpal bone
+RID2331     carpometacarpal joint
+RID2332     metacarpophalangeal joint
+RID234      ureterovesical junction
+RID2340     palmar aponeurosis
+RID2345     thenar muscle
+RID2348     flexor pollicis brevis muscle
+RID237      urinary bladder
+RID2390     palmaris longus tendon
+RID2391     finger
+RID2392     thumb
+RID24       Advanced Analytical Difficulty
+RID245      male urethra
+RID2467     trunk
+RID2468     chest wall
+RID2470     axilla
+RID2471     rib
+RID2473     sternum
+RID2476     manubrium
+RID2477     xiphoid process
+RID2478     costovertebral joint
+RID2484     umbilicus
+RID2485     inguinal canal
+RID2486     pectoral muscle
+RID2493     pectoralis major muscle
+RID25       representativeness
+RID250      prostatic urethra
+RID2504     teres major muscle
+RID2507     pelvis
+RID2509     sacrum
+RID2514     sacral promontory
+RID2515     sacral ala
+RID2516     sacral canal
+RID2524     coccyx
+RID2527     pelvic bone
+RID2531     ilium
+RID2535     iliac tuberosity
+RID2536     iliac crest
+RID2541     iliac fossa
+RID2545     ischium
+RID2547     ischial spine
+RID2550     ischial tuberosity
+RID2553     pubis
+RID2555     superior pubic ramus
+RID2557     pubic tubercle
+RID256      utricle
+RID2564     acetabulum
+RID2568     acetabular fossa
+RID2569     obturator foramen
+RID257      Cowpers gland
+RID25727    c1 segment
+RID25728    c2 segment
+RID25729    c3 segment
+RID25730    c4 segment
+RID25731    c5 segment
+RID25732    c6 segment
+RID25733    c7 segment
+RID25738    t2 segment
+RID25739    t3 segment
+RID25740    t4 segment
+RID25743    t7 segment
+RID2575     ischiopubic synchondrosis
+RID25758    s1 segment
+RID25759    s2 segment
+RID25760    s3 segment
+RID25761    s4 segment
+RID25762    s5 segment
+RID2577     sacroiliac joint
+RID2593     sacrococcygeal disc
+RID2594     symphysis pubis
+RID26       Typical
+RID2602     sacrotuberous ligament
+RID2606     sacrospinous ligament
+RID2616     pelvic inlet
+RID2621     lesser sciatic notch
+RID2622     lesser sciatic foramen
+RID2624     psoas muscle
+RID2625     psoas major muscle
+RID2626     psoas minor muscle
+RID2627     iliacus muscle
+RID2629     gluteus maximus muscle
+RID263      navicular fossa of male urethra
+RID2630     gluteus medius muscle
+RID2631     gluteus minimus muscle
+RID2632     piriformis muscle
+RID2633     obturator internus muscle
+RID2636     obturator externus muscle
+RID2638     lower extremity
+RID2639     hip
+RID264      female urethra
+RID2640     hip joint
+RID2644     acetabular labrum
+RID2649     transverse acetabular ligament
+RID2658     greater trochanteric bursa
+RID2660     thigh
+RID2662     femur
+RID2670     trochanter of femur
+RID2673     lesser trochanter of femur
+RID2677     linea aspera
+RID2684     adductor tubercle
+RID2686     lateral condyle of femur
+RID2688     medial condyle of femur
+RID2691     anterior compartment of thigh
+RID2696     sartorius muscle
+RID2697     quadriceps muscle
+RID2698     rectus femoris muscle
+RID27       Atypical
+RID2700     vastus medialis muscle
+RID2702     vastus intermedius muscle
+RID2703     tensor fascia lata muscle
+RID2708     adductor longus muscle
+RID2709     gracilis muscle
+RID2710     adductor brevis muscle
+RID2711     adductor magnus muscle
+RID2713     hamstring muscle
+RID2714     biceps femoris muscle
+RID2717     semitendinosus muscle
+RID2718     semimembranosus muscle
+RID272      vulva
+RID2723     iliotibial tract
+RID273      clitoris
+RID2743     knee
+RID2745     fabella
+RID2746     patella
+RID2756     medial compartment of knee
+RID2759     patellofemoral joint
+RID2763     lateral meniscus
+RID2768     popliteus hiatus
+RID2771     discoid lateral meniscus
+RID2772     medial meniscus
+RID2781     anterior cruciate ligament
+RID2784     posterior cruciate ligament
+RID2795     posterolateral corner of knee
+RID2797     lateral collateral ligament
+RID28       Mimics another entity
+RID2815     medial patellar retinaculum
+RID2821     suprapatellar recess
+RID2825     popliteus recess
+RID2833     suprapatellar plica
+RID2836     proximal tibiofibular joint
+RID28441    hippocampus proper
+RID28453    abnormal
+RID28471    almost certainly not
+RID28472    present
+RID28473    absent
+RID28474    yes
+RID2848     quadriceps tendon
+RID28481    report section
+RID28482    imaging technique section
+RID28483    comparison section
+RID28487    report
+RID28489    cerebral blood volume map
+RID2849     patellar ligament
+RID28490    time-to-peak map
+RID28492    count
+RID28493    atelectasis
+RID28494    rounded atelectasis
+RID28495    bleb
+RID28496    bronchiectasis
+RID28497    bronchiolectasis
+RID28498    bronchocele
+RID28499    bronchiolitis
+RID28500    bronchocentric
+RID28501    broncholith
+RID28502    bulla
+RID28503    bullous emphysema
+RID28504    centrilobular emphysema
+RID28505    centrilobular
+RID28506    collapse
+RID28507    mycetoma
+RID28508    chronic fibrosing interstitial pneumonia
+RID28509    thickening
+RID28510    interlobular septal thickening
+RID28511    interstitial emphysema
+RID28512    interstitium
+RID28513    linear atelectasis
+RID28515    lymphoid interstitial pneumonia
+RID28517    oligemia
+RID28518    organizing pneumonia
+RID28519    panacinar emphysema
+RID2852     conjoined tendon
+RID28520    paraseptal emphysema
+RID28522    pneumatocele
+RID28523    pneumomediastinum
+RID28524    pneumopericardium
+RID28525    tension pneumothorax
+RID28528    traction bronchiectasis
+RID28529    traction bronchiolectasis
+RID2853     semimembranosus tendon
+RID28530    opacity
+RID28531    ground-glass opacity
+RID28533    parenchymal opacification
+RID28537    air trapping
+RID28538    airspace
+RID28545    ankle
+RID28548    cholangiography
+RID28549    enterography
+RID28550    portography
+RID28551    urography
+RID2857     prepatellar bursa
+RID28579    paranasal sinuses
+RID28593    sacroiliac joints
+RID28599    zygomatic arch
+RID28604    interoperative
+RID28625    posteroanterior projection
+RID28629    submentovertex projection
+RID2863     medial collateral ligament bursa
+RID28632    tangential projection
+RID28643    axillary tail
+RID28645    diamox
+RID28646    direct coronal
+RID28651    magnification
+RID28652    nipple markers
+RID28653    orthogonal
+RID28656    secretin
+RID28657    spot compression
+RID28658    under stress
+RID28659    triphase
+RID28660    acquisition
+RID28662    attenuation
+RID28664    localizer
+RID28665    reconstruction
+RID28667    patient state
+RID28668    volume
+RID28669    slice thickness
+RID28670    slab
+RID28674    cervical spine region
+RID2868     popliteal fossa
+RID28683    flow-encoded
+RID28684    fluid-attenuated
+RID28688    metabolite map
+RID2869     leg
+RID28690    multiecho
+RID28691    non-parallel
+RID28692    parallel
+RID28694    post-contrast
+RID28695    real-time
+RID28696    motion
+RID28698    phase
+RID28699    short tau inversion recovery
+RID287      navicular fossa of female urethra
+RID28700    velocity
+RID28702    temperature
+RID28703    time-of-flight
+RID28706    densitometry
+RID28708    localization
+RID2871     fibula
+RID28712    hip joints
+RID28734    lumbosacral junction
+RID28739    thoracolumbar junction
+RID28742    superior mediastinum
+RID28744    parotid gland
+RID28749    breast
+RID28750    anatomical conduit
+RID28753    biliary system
+RID28770    intrathecal contrast
+RID28783    anterolateral projection
+RID28785    anteroposterior oblique projection
+RID28789    fiducial
+RID28790    implant
+RID28791    shunt tubing
+RID28792    anosmia
+RID28794    acute abdomen
+RID28795    congenital malformation
+RID28796    constrictive pericarditis
+RID28797    cord compression
+RID28799    interstitial lung disease
+RID28800    lupus
+RID28801    multiple sclerosis
+RID28802    myelopathy
+RID28803    pain
+RID28804    pulsatile tinnitus
+RID28805    radiculopathy
+RID28806    seizure
+RID28808    calcium score
+RID28809    CSF flow
+RID28811    donor
+RID28812    function
+RID28813    leg length
+RID28815    preoperative
+RID28816    quality control
+RID28817    screening
+RID28819    skeletal survey
+RID28820    ventriculostomy
+RID28821    viability
+RID28823    prosthesis
+RID28824    optic neuritis
+RID28825    morphology
+RID28826    tagging
+RID28827    chiari malformation
+RID28829    foot
+RID2883     lateral malleolus
+RID28830    lumbar intervertebral disk
+RID28831    modulus
+RID28832    proton-density
+RID28833    pre-contrast
+RID28836    idiopathic pulmonary fibrosis
+RID28837    intralobular lines
+RID28840    tomography
+RID28842    injection
+RID2885     tibia
+RID2886     lateral tibial plateau
+RID28903    kernel
+RID28904    bone kernel
+RID28910    lobar artery
+RID28914    MR acquisition
+RID28915    volume acquisition
+RID28917    imaging acquisition
+RID28918    spectroscopy acquisition
+RID28922    lymphatic chain
+RID28948    perfusion acquisition
+RID2895     tibial tuberosity
+RID28953    cardiac acquisition
+RID2897     gerdy tubercle
+RID28998    wire tip
+RID28999    applicator
+RID290      ovary
+RID29000    needle tip
+RID29004    CT device
+RID29006    needle sheath
+RID29007    filter
+RID29016    flow status
+RID29019    transducer
+RID29023    imaging sign
+RID29024    laser tip
+RID29026    injector
+RID29028    current delivery
+RID29029    bowel contrast
+RID29030    dilator
+RID29031    voxel geometry
+RID29032    attenuation correction method
+RID29033    medical device
+RID29037    imaging device
+RID2904     medial malleolus
+RID29040    French
+RID29041    disease progression
+RID29048    horizontal long axis
+RID29049    vertical long axis
+RID29052    synchondrosis
+RID29053    syndesmosis
+RID29054    MR device
+RID29059    Blount disease
+RID29062    Burns disease
+RID29063    Caffey disease
+RID2909     tibial plafond
+RID29093    head of humerus
+RID29095    apophysis
+RID29104    apophysitis
+RID29115    neuropathy
+RID29116    tuberculosis
+RID29118    Barton fracture
+RID29120    chauffeur fracture
+RID29121    chisel fracture
+RID29122    Chopart fracture-dislocation
+RID29124    Colles fracture
+RID29125    deQuervain dislocation
+RID29126    Desault dislocation
+RID29128    Galeazzi fracture
+RID29129    ulnar collateral ligament tear
+RID29133    Jones fracture
+RID29136    Maisonneuve fracture
+RID29138    mallet finger
+RID29139    march fracture
+RID29140    Monteggia fracture
+RID29142    Rolando fracture
+RID29145    Shepherd fracture
+RID29147    Smith fracture
+RID29149    Tillaux fracture
+RID2915     peroneus tertius
+RID29150    toddler fracture
+RID29151    tripod fracture
+RID29154    vertebra
+RID29155    cervical vertebra
+RID29156    thoracic vertebra
+RID29157    lumbar vertebra
+RID29158    sacral vertebra
+RID2917     peroneus brevis muscle
+RID29173    round mass
+RID29174    lobular mass
+RID29179    spinous process of vertebra
+RID2918     peroneus longus muscle
+RID29188    first sacral vertebra
+RID29192    fifth sacral vertebra
+RID29193    first lumbar vertebra
+RID29197    fifth lumbar vertebra
+RID292      corpus luteum
+RID2920     gastrocnemius muscle
+RID29212    rim calcification
+RID29213    coarse calcification
+RID29214    amorphous calcification
+RID29215    irregular mass
+RID29223    oval mass
+RID29226    Bennett fracture
+RID2923     plantaris muscle
+RID29234    lobe of liver
+RID2924     soleus muscle
+RID29244    tubercle
+RID29251    omentum
+RID29252    lesser omentum
+RID2927     tibialis posterior muscle
+RID2928     flexor hallucis longus muscle
+RID29284    lumen of pyloric canal
+RID2930     compartment of leg
+RID2931     anterior compartment of leg
+RID29378    irregular connective tissue
+RID2945     hindfoot
+RID2946     midfoot
+RID2947     forefoot
+RID2949     talus
+RID29503    corpus luteum of right ovary
+RID29504    corpus luteum of left ovary
+RID29505    corpus luteum of menstruation
+RID29506    corpus luteum of pregnancy
+RID29522    peritoneal fluid
+RID29537    retroperitoneal compartment
+RID29559    cystohepatic triangle
+RID2959     calcaneus
+RID29603    muscle layer
+RID2969     sustentaculum tali
+RID2971     peroneal tubercle
+RID2973     cuboid
+RID2976     tarsal navicular
+RID2978     medial cuneiform
+RID29783    lower uterine segment
+RID2983     lateral cuneiform
+RID2986     metatarsal
+RID29895    female breast
+RID29898    male breast
+RID29902    nipple
+RID29911    areola
+RID2992     toe
+RID29955    accessory breast
+RID29978    hemithorax
+RID29993    upper quadrant of abdomen
+RID29994    right upper quadrant of abdomen
+RID29998    left lower quadrant of abdomen
+RID30014    wall of abdomen
+RID30019    female pelvis
+RID30024    male perineum
+RID30066    body wall
+RID30076    anterior body wall
+RID301      ovarian ligament
+RID3016     posterior tibiotalar ligament
+RID30176    intrahepatic biliary tree
+RID3019     tibiospring ligament
+RID302      uterus
+RID3022     anterior talofibular ligament
+RID3024     posterior talofibular ligament
+RID3029     subtalar joint
+RID30361    ingested food
+RID30394    mesothelium
+RID305      body of uterus
+RID30518    mucosa-associated lymphoid tissue
+RID3052     spring ligament
+RID30520    gut-associated lymphoid tissue
+RID30729    loose connective tissue
+RID308      cervix of uterus
+RID30874    peritoneal sac
+RID30906    iliopsoas
+RID30958    endometrium
+RID31       definitely
+RID31011    colon
+RID311      endometrial cavity
+RID31136    taenia coli
+RID3119     Lisfranc ligament
+RID3129     metatarsophalangeal joint
+RID31386    set of paracardial lymphatic vessels
+RID315      myometrium
+RID31596    external oblique
+RID31599    internal oblique
+RID31602    transversus abdominis
+RID31607    quadratus lumborum
+RID31610    rectus abdominis
+RID3167     abductor digiti minimi muscle
+RID31702    penicillus
+RID3173     flexor hallucis brevis muscle
+RID31757    fissure for ligamentum teres
+RID31786    macula densa
+RID3184     Achilles tendon
+RID3194     posterior tibial tendon
+RID31967    paracardial left gastric lymph node group
+RID32068    paracardial gastric lymph node
+RID3217     retrocalcaneal bursa
+RID3218     intermetatarsal bursa
+RID3220     tarsal tunnel
+RID32242    longus colli
+RID32262    iliocostalis cervicis
+RID32268    iliocostalis lumborum
+RID3228     plantar fascia
+RID3234     heart disease
+RID3235     ischemic heart disease
+RID3236     myocardial infarction
+RID3238     hibernating heart
+RID3240     stunned myocardium
+RID3241     inducible ischemia
+RID3242     microvascular ischemia
+RID3243     cardiomyopathy
+RID3244     dilated cardiomyopathy
+RID3245     arrhythmogenic right ventricular cardiomyopathy
+RID325      vagina
+RID3250     ischemic cardiomyopathy
+RID3251     hypertrophic cardiomyopathy
+RID3252     hypertrophic obstructive cardiomyopathy
+RID3254     hypertrophic nonobstructive cardiomyopathy
+RID3255     restrictive cardiomyopathy
+RID3256     endomyocardial fibrosis
+RID3257     Loeffler endocarditis
+RID32583    paracardial lymphatic vessel
+RID3259     carcinoid heart disease
+RID3260     valvular heart disease
+RID3262     tricuspid valve disease
+RID3264     flail leaflet
+RID32652    mcBurney point
+RID32667    tip of appendix
+RID32668    base of appendix
+RID3269     mitral valve prolapse
+RID32691    anal canal
+RID3271     pseudoxanthoma elasticum
+RID3274     septal defect
+RID3275     ostium secundum atrial septal defect
+RID3277     ventricular septal defect
+RID3279     post-myocardial infarction septal defect
+RID3280     pericardial disease
+RID3281     pericardial constriction
+RID3282     cor pulmonale
+RID3283     cardiac tamponade
+RID3284     vascular disorder
+RID3285     arteriosclerosis
+RID3289     diffuse intimal thickening
+RID3290     atherosclerotic plaque
+RID3291     fibrous plaque
+RID3295     Binswanger disease
+RID32953    thoracic cavity
+RID32954    abdominal cavity
+RID3297     post-myocardial infarction syndrome
+RID3299     pulmonary hypertension
+RID32993    retropubic space
+RID33       probably
+RID3300     precapillary pulmonary hypertension
+RID33005    space of cystohepatic triangle
+RID33008    intercostal space
+RID3301     postcapillary pulmonary hypertension
+RID3302     peripheral vascular disease
+RID3303     vascular entrapment syndrome
+RID33035    perirenal fat
+RID3304     thoracic outlet syndrome
+RID33040    pararenal fat
+RID3305     arcuate ligament syndrome
+RID33066    transversalis fascia
+RID3307     May-Thurner syndrome
+RID3309     fibromuscular dysplasia
+RID3310     thromboangiitis obliterans
+RID3312     amyloid angiopathy
+RID3313     renal hypertension
+RID3315     renovascular hypertension
+RID3316     veno-occlusive disease
+RID33166    vesicovaginal septum
+RID33168    rectovesical septum
+RID3317     dissection
+RID33180    mesentery
+RID33187    splenorenal ligament
+RID3319     arterial dissection
+RID33197    pulmonary ligament
+RID3320     aortic dissection
+RID3321     aneurysm
+RID3322     saccular aneurysm
+RID3323     berry aneurysm
+RID3326     ruptured aneurysm
+RID3327     lymphangiectasia
+RID3328     mycotic aneurysm
+RID3329     fusiform aneurysm
+RID3330     intimal flap
+RID3331     pseudoaneurysm
+RID3332     vascular malformation
+RID3333     high-flow vascular malformation
+RID3334     arteriovenous malformation
+RID3336     low-flow vascular malformation
+RID3337     venous malformation
+RID33371    adventitia of subdivision of minor calyx
+RID3341     lymphatic malformation
+RID3344     lymphatic-venous malformation
+RID33457    accessory spleen
+RID3346     capillary malformation
+RID33467    mesovarium
+RID3348     telangiectasia
+RID33480    greater sac
+RID33484    lesser sac
+RID33499    cecal fold
+RID3356     Type III vascular malformation of spinal cord
+RID3360     CADASIL
+RID3362     retrolental fibroplasia
+RID3365     Terson syndrome
+RID33652    biliary tree
+RID3366     varix
+RID3370     angiodysplasia
+RID3372     ovarian vein varix
+RID3374     peliosis
+RID3375     collateral
+RID3376     ischemia
+RID3377     transient ischemic attack
+RID3379     vasoconstriction
+RID3380     vasospasm
+RID33816    segment of superior frontal gyrus
+RID3382     Inflammatory
+RID3383     appendicitis
+RID3384     cholangitis
+RID3386     primary sclerosing cholangitis
+RID3387     obstructive cholangitis
+RID3388     ascending cholangitis
+RID3389     recurrent pyogenic cholangitis
+RID3393     eosinophilic cholangitis
+RID3394     cholecystitis
+RID3395     acalculous cholecystitis
+RID3396     emphysematous cholecystitis
+RID3397     gangrenous cholecystitis
+RID3398     cholesterol granuloma
+RID3399     choroid plexitis
+RID34       possibly
+RID3400     croup
+RID3403     cyclitis
+RID3405     cystitis
+RID3406     dacryoadenitis
+RID3407     diskitis
+RID3409     diverticulitis
+RID3410     duodenitis
+RID3411     encephalitis
+RID3413     rhombencephalitis
+RID3414     encephalomyelitis
+RID3415     acute disseminated encephalomyelitis
+RID3417     endometritis
+RID3418     enteritis
+RID3419     backwash ileitis
+RID34204    frontal pole (fP)
+RID3421     colitis
+RID34218    planum polare (pp)
+RID3422     neutropenic enterocolitis
+RID34237    hyaline cartilage
+RID3424     clostridium difficile colitis
+RID34240    high density
+RID34243    low density
+RID34246    dystrophic calcification
+RID34249    milk of calcium calcification
+RID34251    round calcification
+RID34253    vascular calcification
+RID34257    fine pleomorphic calcification
+RID3426     diversion colitis
+RID34260    regional
+RID34261    architectural distortion
+RID34264    focal asymmetry
+RID34265    asymmetry
+RID34266    global asymmetry
+RID34267    skin lesion
+RID34269    nipple retraction
+RID3427     colitis cystica profunda
+RID34270    skin thickening
+RID34271    trabecular thickening
+RID34272    axillary adenopathy
+RID34273    predominantly fatty
+RID34274    scattered fibroglandular densities
+RID34275    heterogeneously dense
+RID34276    extremely dense
+RID34279    circumscribed
+RID3428     microscopic colitis
+RID34280    microlobulated
+RID34282    obscured
+RID34283    indistinct
+RID34284    spiculated
+RID34285    coarse
+RID34286    dystrophic
+RID34287    eggshell
+RID34289    lucent-centered
+RID34290    skin
+RID34291    polygonal
+RID34292    fine linear
+RID34293    coarse heterogeneous
+RID34294    fine pleomorphic
+RID34295    secretory
+RID34299    marked
+RID343      prostate
+RID34300    enhancement
+RID34301    focus
+RID34302    foci
+RID34303    rim enhancement
+RID34305    heterogeneous mass enhancement
+RID34306    dark internal septations
+RID34308    central enhancement
+RID34309    stippled enhancement
+RID3431     ischemic colitis
+RID34310    clumped enhancement
+RID34311    reticular enhancement
+RID34312    symmetric enhancement
+RID34313    asymmetric enhancement
+RID34316    focal skin thickening
+RID34317    diffuse skin thickening
+RID3432     stercoral colitis
+RID34320    chest wall invasion
+RID34322    hematoma/blood signal
+RID34323    clip artifact
+RID34324    susceptibility artifact
+RID34328    slow
+RID34329    rapid
+RID3433     drug-induced colitis
+RID34330    persistent
+RID34331    persistent delayed phase
+RID34332    plateau delayed phase
+RID34334    plateau
+RID34335    focal enhancement
+RID34336    linear enhancement
+RID34337    ductal enhancement
+RID34338    segmental enhancement
+RID34339    regional enhancement
+RID3434     caustic colitis
+RID34341    diffuse enhancement
+RID34342    non-mass enhancement
+RID34343    symmetry
+RID34346    echotexture
+RID3435     glutaraldehyde colitis
+RID34351    gently lobulated
+RID34352    parallel lesion
+RID34356    angular
+RID34357    lesion boundary
+RID34358    abrupt interface
+RID34359    echogenic halo
+RID3436     necrotizing enterocolitis
+RID34360    anechoic
+RID34363    no posterior acoustic features
+RID34364    posterior acoustic enhancement
+RID34367    microcalcifications out of mass
+RID34368    microcalcifications in mass
+RID34369    macrocalcifications
+RID3437     epicondylitis
+RID34371    clustered microcysts
+RID34372    complicated cyst
+RID3438     epiglottitis
+RID34382    duct changes
+RID34383    skin retraction
+RID34384    duct ectasia
+RID34385    ductal wall thickening
+RID34388    microcalcifications
+RID34389    hypervascular lesion
+RID34390    Rigler sign
+RID34393    hydronephrosis
+RID34394    obstructive uropathy
+RID34395    chronic obstructive uropathy
+RID34399    bowler hat sign
+RID3440     esophagitis
+RID34402    C sign
+RID34403    intravenous pyelography
+RID34405    cobblestone pattern
+RID34406    coffee bean sign
+RID34407    comet tail sign
+RID34409    swan neck deformity
+RID3441     reflux esophagitis
+RID34410    inverted Napoleon hat sign
+RID34411    absent bow tie sign
+RID34412    Erlenmeyer flask deformity
+RID34413    Metabolic Disease
+RID34414    lysosomal storage disease
+RID34415    Gaucher disease
+RID34418    thalassemia
+RID3442     infectious esophagitis
+RID34423    upper GI series
+RID34424    retrograde ureteropyelography
+RID34425    retrograde pyelography
+RID34426    barium enema
+RID34428    scintigraphy
+RID3443     radiation-induced esophagitis
+RID34430    cholecystography
+RID34431    bronchography
+RID34432    small bowel series
+RID34433    voiding urethrography
+RID34434    arteriography
+RID34436    long bone
+RID34437    pelvic brim
+RID3444     eosinophilic esophagitis
+RID34445    cerebral vein
+RID34449    frontal vein
+RID3445     esophageal intramural pseudodiverticulosis
+RID34451    venous plexus
+RID3446     fasciitis
+RID34469    right portal vein
+RID3447     necrotizing fasciitis
+RID34470    left portal vein
+RID34474    dural venous sinus
+RID3448     necrotizing fasciitis of perineum and genitals
+RID34480    parietal foramen
+RID34492    pediatric
+RID34493    pregnant
+RID34494    neonatal
+RID3450     gastritis
+RID3451     helicobacter pylori gastritis
+RID3453     erosive gastritis
+RID34530    interphalangeal joint
+RID34534    diploe
+RID34539    pleural effusion
+RID3454     caustic gastritis
+RID34540    asbestos-related disease
+RID34542    compact bone
+RID34548    fourth metacarpal bone
+RID3455     antral gastritis
+RID34550    eye
+RID34557    placenta
+RID34558    umbilical cord
+RID34559    chorion
+RID3456     hypertrophic gastritis
+RID34560    amnion
+RID34561    urachus
+RID34566    pulmonary hilum
+RID34568    hilum of spleen
+RID34571    cervical vertebral column
+RID34574    contraceptive device
+RID34575    intrauterine device
+RID3458     atrophic gastritis
+RID34582    achalasia
+RID34584    congenital diaphragmatic hernia
+RID34585    splenic hemorrhage
+RID34586    splenic rupture
+RID34587    enlarged spleen
+RID34588    urethral stenosis
+RID34589    coarctation of aorta
+RID3459     emphysematous gastritis
+RID34590    aortic stenosis
+RID34591    aspergillosis
+RID34592    scleroderma
+RID34593    enlarged liver
+RID34594    anterior cruciate ligament tear
+RID34595    hemothorax
+RID34596    cholangiohepatitis
+RID34597    ureteropelvic junction obstruction
+RID34599    neurofibromatosis
+RID3460     eosinophilic gastritis
+RID34600    Schwannomatosis
+RID34601    neurofibromatosis type 1
+RID34602    neurofibromatosis type 2
+RID34603    craniosynostosis
+RID34604    sigmoid volvulus
+RID34605    avascular necrosis
+RID34607    microlithiasis
+RID34608    pulmonary alveolar microlithiasis
+RID3461     gastroenteritis
+RID34610    hyperparathyroidism
+RID34611    tetralogy of Fallot
+RID34612    Ebstein anomaly
+RID34613    Klebsiella pneumonia
+RID34614    portal hypertension
+RID34615    Neoplastic Disease
+RID34617    melanoma
+RID34618    Morquio syndrome
+RID34619    mucopolysaccharidosis
+RID3462     eosinophilic gastroenteritis
+RID34620    achondroplasia
+RID34621    Hurler syndrome
+RID34623    gastric cancer
+RID34624    thrombosis
+RID34625    deep vein thrombosis
+RID34626    gonadal dysgenesis
+RID34627    rubella
+RID34628    maternal rubella
+RID34631    congenital cardiovascular malformation
+RID34633    cerebral palsy
+RID34634    Charcot-Marie-Tooth disease
+RID34636    polycystic kidney disease
+RID34637    bronchitis
+RID34638    cystic fibrosis
+RID34639    molar pregnancy
+RID34640    ureterocele
+RID34641    cellulitis
+RID34642    calcifications breast
+RID34643    hydromyelia
+RID34644    diaphragmatic rupture
+RID34645    renal agenesis
+RID34646    phlebolith
+RID34647    intraosseous hemangioma
+RID34648    deficiency disorder
+RID34649    scurvy
+RID3465     Guillain-Barre syndrome
+RID34650    pulmonary alveolar proteinosis
+RID34651    gastric ulcer
+RID34652    impingement
+RID34653    femoroacetabular impingement
+RID34656    ovarian cyst
+RID34657    lead poisoning
+RID34658    death
+RID34659    hemoperitoneum
+RID34660    melorheostosis
+RID34661    transposition of great vessels
+RID34662    sarcoidosis
+RID34665    gynecomastia
+RID34666    dermatomyositis
+RID34668    allergic bronchopulmonary aspergillosis
+RID3467     hepatitis
+RID34673    transitional cell carcinoma of ureter
+RID34674    cystic disease
+RID34675    medullary sponge kidney
+RID34676    sickle cell anemia
+RID34678    hemolytic anemia
+RID34679    skeletal dysplasia
+RID3468     steatohepatitis
+RID34680    diastrophic dysplasia
+RID34681    brain death
+RID34682    hypothermia
+RID34683    hepatic encephalopathy
+RID34684    cystic adventitial disease
+RID34685    ascariasis
+RID34686    bacterial infection
+RID34687    viral infection
+RID34688    epiploic appendagitis
+RID34689    hypotension
+RID3469     nonalcoholic steatohepatitis
+RID34690    transitory synovitis
+RID34691    psoriasis
+RID34692    humeral avulsion of inferior glenohumeral ligament
+RID34693    esophageal web
+RID34694    lobe of lung
+RID34695    upper lobe of lung
+RID34696    lower lobe of lung
+RID34697    posterior urethral valve
+RID34699    tuberculous arthritis
+RID34700    chiari malformation type I
+RID34701    chiari malformation type II
+RID34702    chiari malformation type III
+RID34703    chiari malformation type IV
+RID34704    hypoplastic left heart syndrome
+RID34705    duplication
+RID34706    persistent left superior vena cava
+RID34707    congenital anomaly of spine
+RID34708    spina bifida
+RID34709    polyostotic fibrous dysplasia
+RID3471     neonatal hepatitis
+RID34710    breast implant
+RID34712    liver disorder
+RID34713    congenital hepatic fibrosis
+RID34714    ectopic kidney
+RID34715    arthritis mutilans
+RID34716    rickets
+RID34717    developmental disorder
+RID34718    mental retardation
+RID3472     hypophysitis
+RID34720    gonadal dysgenesis syndrome
+RID34721    cerebellar disorder
+RID34726    tension pneumocephalus
+RID3473     lymphocytic hypophysitis
+RID34730    AIDS
+RID34731    appendiceal mucocele
+RID34732    congenital anomaly of brain
+RID34733    holoprosencephaly sequence
+RID34734    alobar holoprosencephaly
+RID34735    lobar holoprosencephaly
+RID34738    hyperbilirubinemia
+RID34739    conjugated hyperbilirubinemia
+RID3474     inflammatory bowel disease
+RID34742    hydropneumoperitoneum
+RID34744    synthetic graft
+RID34745    metabolic bone disease
+RID34746    osteogenesis imperfecta
+RID34747    dural ectasia
+RID34748    mitral valve insufficiency
+RID34749    pseudolesion
+RID3475     Crohn disease
+RID34750    closed-loop obstruction
+RID34751    small bowel closed-loop obstruction
+RID34753    neurocutaneous syndrome
+RID34754    tuberous sclerosis syndrome
+RID34755    brain damage
+RID34756    graft versus host disease
+RID34757    infection by tapeworm larvae
+RID34758    cysticercosis
+RID34759    diffuse spasm
+RID3476     ulcerative colitis
+RID34760    diffuse esophageal spasm
+RID34763    nasal septum deviation
+RID34765    syphilis
+RID34766    partial anomalous pulmonary venous return
+RID34767    endometrioma
+RID34768    pertussis
+RID34769    viral pneumonia
+RID3477     keratosis obturans
+RID34770    amyloid arthropathy
+RID34772    meningocele
+RID34773    total anomalous pulmonary venous return
+RID34774    hematuria
+RID34775    double-column acetabulum fracture
+RID34776    papillary transitional cell carcinoma
+RID34778    metachromatic leukodystrophy
+RID34779    hyperacute
+RID3478     Kawasaki disease
+RID34780    absence
+RID34781    asplenia
+RID34782    persistent embryonic trigeminal artery
+RID34783    proliferation
+RID34784    disorder of pregnancy
+RID34785    clinical finding
+RID34786    blighted ovum
+RID34787    granulomatous disease
+RID34788    encephalotrigeminal angiomatosis
+RID34789    hypertrophic osteoarthropathy
+RID34790    separation
+RID34792    twin dichorionic diamniotic placenta
+RID34793    dissecting aortic aneurysm
+RID34794    degenerative spondylolisthesis
+RID34795    heart failure
+RID34796    right heart failure
+RID34797    spinal fusion
+RID34799    persistent truncus arteriosus
+RID3480     Kimura disease
+RID34800    increased intracranial pressure
+RID34804    ovarian vein
+RID3481     labyrinthine ossification
+RID34819    adrenal vein
+RID34825    retinaculum
+RID3483     labyrinthitis
+RID34834    enlarged parietal foramina
+RID34835    T-cell lymphoma
+RID34837    congenital chromosomal abnormality
+RID3484     lymphadenitis
+RID34859    fat body
+RID34861    object
+RID34876    tibiofibular joint
+RID34878    cystography
+RID34879    retrograde ureterography
+RID3488     malakoplakia
+RID34880    double-contrast barium enema
+RID34881    irregular bone
+RID34884    umbilical vein
+RID34886    epiphyseal plate
+RID34889    pulmonary infarction
+RID3489     mastoiditis
+RID34890    urethra
+RID34897    pericardial recess
+RID3490     mediastinitis
+RID34918    main bronchus
+RID3492     Meniere syndrome
+RID34920    upper lobe bronchus
+RID3494     meningitis
+RID34941    pleural recess
+RID34943    capsule
+RID3495     leptomeningitis
+RID34951    ankle fracture
+RID34952    Weber type A fracture
+RID34953    Weber type B fracture
+RID3496     arachnoiditis
+RID3497     basilar meningitis
+RID34979    decussation
+RID3498     pachymeningitis
+RID34987    external genitalia
+RID3499     meningoencephalitis
+RID34991    abdominal fat necrosis sign
+RID3500     mesenteritis
+RID35000    air crescent sign
+RID35002    Andersson lesion
+RID35006    anteater nose sign
+RID3501     myelitis
+RID35012    antral pad sign
+RID35015    Apert syndrome
+RID35016    apical cap
+RID35018    applecore lesion
+RID3502     transverse myelitis
+RID35020    arcuate sign
+RID35021    arrowhead sign
+RID35022    arterial cut-off sign
+RID3503     myocarditis
+RID35031    bamboo spine
+RID35032    banana sign
+RID35039    big rib sign
+RID3504     myositis
+RID35049    block vertebra
+RID3505     neuritis
+RID35053    boot-shaped heart sign
+RID35054    border sign
+RID35055    boutonniere deformity
+RID35056    bow tie sign
+RID35058    bridging vascular sign
+RID3506     orbital pseudotumor
+RID35067    button sequestrum sign
+RID35068    calyceal crescent sign
+RID35069    cancellous ulcer osteoma
+RID3507     periscleritic form orbital pseudotumor
+RID35073    Carman meniscus sign
+RID35074    carotid string sign
+RID35077    celery stalk metaphysis
+RID35078    celery stalk sign
+RID3508     tumefactive form orbital pseudotumor
+RID35084    claw hand
+RID3509     myositic form orbital pseudotumor
+RID35090    cobra head sign
+RID35093    Codman triangle
+RID35095    coin lesion
+RID35097    collar sign
+RID35099    colon cutoff sign
+RID3510     perineuritic orbital pseudotumor
+RID35101    comb sign
+RID35102    comet sign
+RID35103    concentric ring sign
+RID35104    continuous diaphragm sign
+RID35109    cord sign
+RID3511     lacrimal orbital pseudotumor
+RID35112    corkscrew collaterals
+RID35114    corner sign
+RID3512     diffuse orbital pseudotumor
+RID35120    crazy-paving sign
+RID35121    crescent sign
+RID35125    crossover sign
+RID35127    CT angiogram sign
+RID35128    CT arrowhead sign
+RID3513     Brodie abscess
+RID35131    cupola sign
+RID35134    cyclops lesion
+RID35135    dagger sign
+RID35136    deep lateral femoral notch sign
+RID35137    deep sulcus sign
+RID35139    dense metaphyseal band sign
+RID3514     sclerosing osteomyelitis
+RID35141    dependent viscera sign
+RID35147    disappearing basal ganglia sign
+RID3515     chronic symmetric plasma cell osteomyelitis
+RID35151    disk kidney
+RID35156    distended common bile duct
+RID35158    dog leg sign
+RID35162    double bronchial wall sign
+RID35163    double bubble sign
+RID35165    double condom sign
+RID35166    double contour sign
+RID35167    double decidual sac sign
+RID35168    double duct sign
+RID3517     otitis
+RID35170    double posterior cruciate ligament sign
+RID35173    double-line sign
+RID35174    doughnut sign
+RID35175    draped aorta sign
+RID35176    dripping candle wax sign
+RID35177    dromedary hump
+RID35178    drooping lily sign
+RID3518     otitis media
+RID35181    duodenal wind sock sign
+RID35182    dural tail sign
+RID35187    empty delta sign
+RID3519     otitis externa
+RID35193    extrapleural sign
+RID35194    eye-of-the-tiger sign
+RID35196    faceless kidney
+RID35197    falciform ligament sign
+RID35198    fallen fragment sign
+RID3520     malignant otitis externa
+RID35200    fat C2 sign
+RID35201    fat halo sign
+RID35202    fat pad sign
+RID35203    fat ring sign
+RID35204    fat sign
+RID35205    FBI sign
+RID35206    feeding vessel sign
+RID35212    fish vertebra
+RID35214    fissure sign
+RID35223    floating aorta sign
+RID35226    floating viscera sign
+RID35228    fluid-fluid level
+RID35229    focal hepatic hot spot sign
+RID35230    football sign
+RID35231    four-tendon sign
+RID3524     osteitis
+RID35241    gloved finger sign
+RID35243    Golden S sign
+RID35244    golf ball-on-tee sign
+RID35247    ground glass pattern
+RID35249    growing calculus sign
+RID3525     osteitis fibrosa cystica
+RID35253    hair-on-end sign
+RID3526     condensing osteitis
+RID35263    Hawkins sign
+RID35264    headcheese sign
+RID35267    hematocrit effect
+RID3527     otosclerosis
+RID35270    hide-bound bowel sign
+RID35275    hilum overlay sign
+RID35276    hitchhiker thumb
+RID35279    Honda sign
+RID35280    honeycomb lung
+RID35281    hook sign
+RID35282    horseshoe kidney
+RID35284    hot cross bun sign
+RID35285    hot nose sign
+RID35286    hourglass appearance
+RID35287    hump sign
+RID35288    hydronephrotic rim
+RID35289    hyperattenuating crescent sign
+RID3529     pancreatitis
+RID35296    iceberg sign
+RID3530     autoimmune pancreatitis
+RID35300    incomplete fissure sign
+RID35307    interface sign
+RID3531     hereditary pancreatitis
+RID35311    intravertebral vacuum cleft sign
+RID35313    inverted V sign
+RID35314    ivory osteoma
+RID35316    ivory vertebra sign
+RID35318    jack stone
+RID3532     panniculitis
+RID35320    jet phenomenon
+RID35322    joint mice
+RID35324    keyboard sign
+RID35327    kidney sweat
+RID3533     parotitis
+RID35333    lacunar skull
+RID35337    lateral femoral notch sign
+RID3534     pericarditis
+RID35342    lemon sign
+RID35343    leontiasis ossea
+RID35345    light bulb sign
+RID35348    lobster claw
+RID3535     peritonitis
+RID35350    lollipop sign
+RID35355    Luftsichel sign
+RID35359    Madelung deformity
+RID3536     meconium peritonitis
+RID35361    maiden waist deformity
+RID35365    MCA dot sign
+RID3537     petrous apicitis
+RID35371    Mercedes Benz sign
+RID35373    metacarpal sign
+RID35375    midsternal stripe sign
+RID35377    miliary pattern
+RID35378    Milwaukee shoulder
+RID35387    Mount Fuji sign
+RID35389    mulberry stone
+RID3539     pharyngitis
+RID35390    multiple concentric ring sign
+RID35391    musculoskeletal crescent sign
+RID35393    naked facet sign
+RID35398    nipple sign
+RID354      capsule of prostate
+RID3540     pleuritis
+RID35401    nutmeg liver
+RID35408    onion ring appearance
+RID3541     pneumonitis
+RID35413    Page kidney
+RID35414    paintbrush appearance
+RID35416    panda sign
+RID35419    parallel channel sign
+RID35423    pear-shaped bladder
+RID35424    pearl necklace gallbladder
+RID35426    pedicle sign
+RID3544     prostatitis
+RID35442    picket fence
+RID35444    pie-in-the-sky bladder
+RID35447    pistol grip deformity
+RID35449    pleural tail
+RID3545     pyelitis
+RID35452    polka-dot sign
+RID35455    posterior vertebral scalloping
+RID35457    pronator quadratus sign
+RID35458    pruned tree sign
+RID35460    pseudocalculus sign
+RID35461    pseudokidney sign
+RID35462    pseudotumor sign
+RID35466    pulmonary sling
+RID35467    putty kidney
+RID3547     pyelonephritis
+RID35471    radial bands sign
+RID35476    renal halo sign
+RID35477    reversal sign
+RID3548     pyonephrosis
+RID35480    reverse rim sign
+RID35482    reversed halo sign
+RID35484    ribbon ribs
+RID3549     retinitis
+RID35495    ring of fire sign
+RID35498    ring stricture sign
+RID35499    ring-around-the-artery sign
+RID355      neurovascular bundle
+RID35501    rocker-bottom thymus sign
+RID35503    rosary sign
+RID35505    rugger jersey spine
+RID35514    sandwich sign
+RID35515    sandwich vertebrae
+RID35516    sausage digit
+RID3552     rheumatic disease
+RID35521    scimitar sign
+RID35523    sedimentation sign
+RID35528    shading sign
+RID3553     arthritis
+RID35536    shotgun sign
+RID35538    shoulder sign
+RID3554     psoriatic arthritis
+RID35544    silhouette sign
+RID3555     osteoarthritis
+RID35550    small heart sign
+RID35552    small-bowel feces sign
+RID35555    snowman sign
+RID35558    soft-tissue rim sign
+RID3556     endemic osteoarthritis
+RID35560    spade shape
+RID35561    spaghetti sign
+RID35565    spider web
+RID35566    spinnaker sail sign
+RID35570    split pleura sign
+RID35573    spotted nephrogram
+RID35574    spur sign
+RID35578    staghorn calculus
+RID35580    starry sky
+RID35581    steeple sign
+RID35583    stepladder sign
+RID35586    stipple sign
+RID35587    straight line sign
+RID3559     erosive osteoarthritis
+RID35590    string sign
+RID35598    sulcus sign
+RID35599    sunburst pattern
+RID3560     osteoarthritis deformans
+RID35600    superior triangle sign
+RID35603    swirl sign
+RID35607    talar beak sign
+RID35608    tangent sign
+RID3561     rheumatoid arthritis
+RID35614    target sign of liver
+RID35616    tarsal coalition
+RID35617    tattoo sign
+RID35618    tau sign
+RID35629    thimble bladder
+RID35635    thumb sign
+RID35636    thumbprinting
+RID35638    thymic wave sign
+RID35640    tip of the iceberg sign
+RID35642    tooth sign
+RID35643    toothpaste sign
+RID35654    tree-in-bud sign
+RID35655    triangle sign
+RID35657    trident hand
+RID35658    triple bubble sign
+RID35660    trough line sign
+RID35663    tubular artery sign
+RID35668    turret exostosis
+RID35669    twin peak sign
+RID3567     gout arthritis
+RID35674    upper triangle sign
+RID35691    water lily sign
+RID35693    watering can perineum
+RID35694    wave sign
+RID35696    shadow sign
+RID35697    Westermark sign
+RID35699    whirlpool sign
+RID357      seminal vesicle
+RID35710    yin-yang sign
+RID3572     pseudo-gout
+RID35722    dual phase
+RID35723    colonography
+RID35725    diagnostic imaging
+RID35726    triple phase
+RID35727    apical projection
+RID35729    frontal and lateral projection
+RID35732    guidance
+RID35736    high resolution
+RID35737    low dose
+RID35738    congenital disorder
+RID35743    tarsal bone
+RID35752    carpal bone
+RID35753    sesamoid bone
+RID35754    mastoid region
+RID35762    occipital protuberance
+RID35767    discography
+RID35768    cisternography
+RID35772    pelvimetry
+RID35773    scanogram
+RID35774    nerve block
+RID35775    screw placement
+RID35777    stereotactic localization
+RID358      vas deferens
+RID35804    hypointense
+RID35805    hyperintense
+RID35806    fluid-attenuated inversion recovery
+RID35807    medullary nephrocalcinosis
+RID35809    thoracolumbar spine region
+RID35811    renal cyst
+RID35813    paracentesis
+RID35814    pericardiocentesis
+RID35815    thoracentesis
+RID35816    needle placement
+RID35817    oral contrast
+RID35818    rectal contrast
+RID35819    surgical equipment
+RID35838    arterial trunk
+RID35844    descending thoracic aorta
+RID35862    coronary artery
+RID35880    anastomosis
+RID35881    vascular anastomosis
+RID35882    arterial anastomosis
+RID35949    bifurcation of aorta
+RID35962    umbilical artery
+RID35964    digit
+RID35965    follow-up procedure
+RID35966    research
+RID35968    volume quantification
+RID3597     calcific periarthritis
+RID35973    pharmaceutical
+RID35974    venous anastomosis
+RID35977    property
+RID35978    Chilaiditi syndrome
+RID3598     arthritis of hemochromatosis
+RID35980    pseudopneumoperitoneum
+RID35999    deep cerebral vein
+RID36       probably not
+RID36003    cerebellar vein
+RID36008    benign finding
+RID36014    multiple spinal levels
+RID36016    thin section
+RID36017    3D image processing
+RID36018    venipuncture
+RID36019    facet block
+RID36026    assessment
+RID36027    BI-RADS assessment
+RID36028    BI-RADS 1
+RID36029    BI-RADS 2
+RID3603     spondyloarthropathy
+RID36030    BI-RADS 4
+RID36031    BI-RADS 4A
+RID36032    BI-RADS 4B
+RID36033    BI-RADS 4C
+RID36034    BI-RADS 5
+RID36035    BI-RADS 6
+RID36036    BI-RADS 0
+RID36038    typically benign
+RID36039    higher probability of malignancy
+RID3604     ankylosing spondylitis
+RID36040    intermediate concern
+RID36041    BI-RADS 3
+RID36042    malignant neoplasm
+RID36043    increased
+RID36044    decreased
+RID3605     renal spondyloarthropathy
+RID3606     dialysis spondyloarthropathy
+RID3608     seronegative spondyloarthropathy
+RID361      ejaculatory duct
+RID3610     juvenile rheumatoid arthritis
+RID3611     seronegative juvenile rheumatoid arthritis
+RID3613     diabetic cheiroarthropathy
+RID3614     infective arthritis
+RID36161    anterior cerebral vein
+RID3617     infective discitis
+RID362      penis
+RID3629     periarthritis
+RID363      corpus spongiosum
+RID3630     synovitis
+RID3631     acute serous synovitis
+RID3632     bursitis
+RID3633     septic bursitis
+RID3634     lumbar interspinous bursitis
+RID3636     granulomatous synovitis
+RID3637     infectious synovitis
+RID364      corpus cavernosum
+RID3640     pannus
+RID3641     pigmented villonodular synovitis
+RID3643     proliferative synovitis
+RID3644     synovitis due to foreign material
+RID3645     silicone synovitis
+RID36453    temporal artery
+RID3646     starch synovitis
+RID3647     traumatic synovitis
+RID3648     villonodular synovitis
+RID3649     tendinitis
+RID365      scrotum
+RID3651     tenosynovitis
+RID3652     fibromyalgia
+RID3653     polymyalgia rheumatica
+RID3654     polymyositis
+RID3655     sialadenitis
+RID3659     sialodochitis
+RID366      testis
+RID3663     sinusitis
+RID3664     surfer ear
+RID3666     thyroiditis
+RID3667     suppurative thyroiditis
+RID3668     subacute thyroiditis
+RID3669     Hashimoto thyroiditis
+RID3670     Riedel thyroiditis
+RID3671     Grave disease
+RID3673     Tolosa-Hunt syndrome
+RID3674     tonsillitis
+RID3675     ureteritis
+RID3676     ureteritis cystica
+RID3681     vasculitis
+RID3682     arteritis
+RID3684     aortitis
+RID3686     giant cell arteritis
+RID3687     temporal arteritis
+RID3689     lymphomatoid granulomatosis
+RID3691     polyarteritis
+RID3692     polyarteritis nodosa
+RID3694     Takayasu arteritis
+RID3695     leukocytoclastic vasculitis
+RID3696     pulmonary arteritis
+RID3697     primary angiitis of central nervous system
+RID3699     phlebitis
+RID3700     thrombophlebitis
+RID3701     ventriculitis
+RID3702     Wegener granulomatosis
+RID3703     eosinophilic cystitis
+RID3704     cystitis cystica
+RID3705     cystitis glandularis
+RID3706     xanthogranulomatous inflammation
+RID3707     xanthogranulomatous pyelonephritis
+RID3709     xanthogranulomatous cholecystitis
+RID371      epididymis
+RID3710     Infection
+RID3711     abscess
+RID3712     tubo-ovarian abscess
+RID3713     subphrenic abscess
+RID3714     empyema
+RID3715     osteomyelitis
+RID3716     pelvic inflammatory disease
+RID372      head of epididymis
+RID3725     tuberculous spondylitis
+RID3732     aplasia
+RID3733     agenesis
+RID3735     atresia
+RID3736     choanal atresia
+RID3737     dysplasia
+RID3738     fibrous dysplasia
+RID3739     cherubism
+RID3740     multicystic dysplasia
+RID3741     dysgenesis
+RID3742     ectopic tissue
+RID3745     ectopic pancreatic rest
+RID3747     pelvic kidney
+RID3748     crossed ectopia
+RID375      spermatic cord
+RID3750     splenosis
+RID3751     graft
+RID3752     bone graft
+RID3753     cancellous bone graft
+RID3754     corticocancellous bone graft
+RID3755     cortical bone graft
+RID3756     ligament graft
+RID3757     transplanted organ
+RID376      pampiniform plexus
+RID3760     nodular heterotopia
+RID3761     subependymal nodular heterotopia
+RID3762     subcortical nodular heterotopia
+RID3763     band heterotopia
+RID3764     pachygyria
+RID3766     lissencephaly
+RID3768     polymicrogyria
+RID377      pelvic floor
+RID3770     lingual thyroid
+RID3771     focal cortical dysplasia without balloon cells
+RID3773     nasal glioma
+RID3775     enlargement
+RID3777     hyperplasia
+RID3778     focal nodular hyperplasia
+RID3779     telangiectatic focal nodular hyperplasia
+RID3780     lymphoid hyperplasia
+RID3781     Castleman disease
+RID3784     benign prostatic hyperplasia
+RID37859    right renal artery
+RID3786     hyperkeratosis
+RID37860    left renal artery
+RID3789     acanthosis nigricans
+RID3790     nodular hyperplasia
+RID3792     adenoid hyperplasia
+RID3793     distension
+RID3795     hypertrophy
+RID3796     splenic sequestration
+RID3797     goiter
+RID3798     lymphadenopathy
+RID38       almost certainly
+RID3800     fusion
+RID3804     growth arrest
+RID3805     growth retardation
+RID38068    ovarian artery
+RID3807     involution
+RID38078    hepatic artery
+RID3808     microgallbladder
+RID38089    subdivision of cystic artery
+RID3809     metaplasia
+RID381      pubococcygeus
+RID3810     squamous metaplasia
+RID38121    accessory cystic artery
+RID3813     regeneration
+RID3814     remodeling
+RID3815     Paget disease
+RID3817     clubbing
+RID3818     contracture
+RID3819     granulation tissue
+RID3820     fibrosis
+RID3821     interstitial fibrosis
+RID3822     cirrhosis
+RID3823     primary biliary cirrhosis
+RID3824     Peyronie disease
+RID3825     retroperitoneal fibrosis
+RID3826     myelofibrosis
+RID3827     gliosis
+RID3828     keloid
+RID38283    left gastric vein
+RID38285    para-umbilical vein
+RID38287    jejunal vein
+RID38289    middle colic vein
+RID3829     scar
+RID38297    short gastric vein
+RID383      iliococcygeus
+RID3830     radial scar
+RID3831     adhesion
+RID3832     synechia
+RID3833     intrauterine synechia
+RID3838     extramedullary hematopoiesis
+RID3839     lymphoproliferative disorder
+RID3840     lymphoma
+RID3842     Hodgkin lymphoma
+RID3843     non-Hodgkin lymphoma
+RID3844     large cell lymphoma
+RID3845     histiocytosis
+RID3846     Langerhans cell histiocytosis
+RID3848     Hand-Schuller-Christian disease
+RID3849     eosinophilic granuloma
+RID3850     non-Langerhans cell histiocytosis
+RID3851     Rosai-Dorfman disease
+RID3852     Erdheim-Chester disease
+RID3853     hemophagocytic lymphohistiocytosis
+RID3854     juvenile xanthogranuloma
+RID3855     xanthoma disseminatum
+RID3856     choroid plexus xanthogranuloma
+RID3857     granulocytic sarcoma
+RID38584    not seen
+RID38586    renal calculus
+RID38587    ureteral calculus
+RID38588    pericardial effusion
+RID3859     plasma cell granuloma
+RID38590    atrial septal defect
+RID38591    Autoimmune Disease
+RID38592    mesenteric ischemia
+RID38593    unilateral
+RID38594    bone marrow
+RID38595    calf
+RID38596    endovaginal coil
+RID38597    clip placement
+RID38602    vacuum-assisted biopsy
+RID38603    on call
+RID38604    cerebrovascular disease
+RID38605    Moyamoya disease
+RID38607    assessment procedure
+RID38608    assess treatment response
+RID38609    rotational angiography
+RID3861     plasmacytoma
+RID38611    biopsy
+RID3862     myeloproliferative disorder
+RID3863     leukemia
+RID3864     multiple myeloma
+RID38644    subdivision of eustachian tube
+RID38647    epicondyle
+RID3865     polycythemia vera
+RID3866     Madelung disease
+RID38660    dual-energy CT
+RID38661    more than 5
+RID38662    innumerable
+RID38667    thinning
+RID38669    diminished
+RID38670    clear
+RID38676    diatrizoate
+RID38678    Gastrografin
+RID38679    MD-Gastroview
+RID3868     adenomyosis
+RID38682    Hypaque
+RID38683    iothalamate
+RID38684    Conray
+RID38688    ioxithalamate
+RID38689    Telebrix
+RID3869     adenomyomatosis
+RID38694    ioxaglate
+RID38695    Hexabrix
+RID38696    non-ionic iodinated contrast agent
+RID3870     endometriosis
+RID38701    iohexol
+RID38702    Omnipaque
+RID38708    iomeprol
+RID38709    iopamidol
+RID3871     post-transplant lymphoproliferative disorder
+RID38710    Isovue
+RID38719    Iopamidol-370
+RID38720    iopentol
+RID38721    Imagopaque
+RID38723    iopromide
+RID38724    Ultravist
+RID38729    ioversol
+RID3873     focal proliferation
+RID38730    Optiray
+RID38737    Oxilan
+RID3874     mass
+RID38741    iodixanol
+RID38742    Visipaque
+RID38745    iotrolan
+RID38746    Isovist
+RID38748    multiphase
+RID38749    single phase
+RID3875     nodule
+RID38750    obese adult
+RID38752    ultra-high resolution
+RID38755    4-dimensional CT
+RID3876     micronodule
+RID38760    imaging protocol
+RID38761    femoral artery
+RID38769    not parallel
+RID3877     macronodule
+RID38771    hamstring tendon
+RID38775    ischemic penumbra
+RID38776    ischemic core
+RID38777    specimen
+RID38778    diffusion tensor imaging
+RID38779    neurography
+RID3878     rheumatoid nodule
+RID38780    lesion
+RID38787    iliac spine
+RID3879     regenerative nodule
+RID38794    reticulation
+RID38799    advanced
+RID388      rectovaginal fascia
+RID3880     dysplastic nodule
+RID38800    akinesia
+RID38801    alignment
+RID38802    enzyme
+RID38803    amylase
+RID38804    anatomical anomaly
+RID38805    arterial anomaly
+RID38806    anteverted
+RID38807    retroverted
+RID38808    anterior tibiofibular ligament
+RID38809    posterior tibiofibular ligament
+RID3881     polyp
+RID38810    anterolateral
+RID38811    asymptomatic
+RID38812    magnetic resonance cholangiopancreatography
+RID38813    cholangiopancreatography
+RID38815    black
+RID3882     inflammatory esophagogastric polyp
+RID3883     fibroepithelial polyp
+RID3884     fibrovascular polyp
+RID3885     cholesterol polyp
+RID3887     adenomatous polyp
+RID3888     hyperplastic polyp
+RID3889     inflammatory fibroid polyp
+RID38896    prostatic utricle
+RID389      parametrium
+RID3890     cyst
+RID3891     arachnoid cyst
+RID3892     Baker cyst
+RID3893     Bartholin gland cyst
+RID3894     bone cyst
+RID3896     choledochal cyst
+RID3898     choroid plexus cyst
+RID3899     colloid cyst
+RID39       definitely not
+RID3900     communicating cyst
+RID39000    accessory parotid gland
+RID39003    sublingual gland
+RID3903     dentigerous cyst
+RID39030    bone age
+RID39031    bowed
+RID39032    brown
+RID39033    center
+RID39034    hormone
+RID39035    cholecystokinin
+RID39036    cloudy
+RID39037    yellow
+RID39038    location
+RID3904     dermoid cyst
+RID39040    color
+RID39041    concave
+RID39042    concentration
+RID39043    congruent
+RID39044    contiguous
+RID39045    imaging with contrast
+RID39046    convex
+RID39047    definite
+RID39048    diabetes
+RID39049    atherosclerosis
+RID39050    symptom
+RID39051    cough
+RID39052    constipation
+RID39055    breast mass
+RID39056    lung mass
+RID3906     duplication cyst
+RID39064    skeleton
+RID39065    delayed
+RID39066    depth
+RID39067    degenerated
+RID39069    dislocated
+RID3907     epidermoid
+RID39070    disrupted
+RID39071    dyskinetic
+RID39072    elongated
+RID39073    human
+RID39075    geriatric
+RID39076    encephalomalacia
+RID39079    excellent
+RID39080    fair
+RID39081    poor
+RID39082    diarrhea
+RID39083    fever
+RID39086    fractured
+RID39087    full-term
+RID39088    good
+RID39089    green
+RID39093    hammertoe
+RID39094    headache
+RID39095    hyperenhancement
+RID39096    hyperlipidemia
+RID39097    hypertension
+RID39099    hypoinflated
+RID3910     ependymal cyst
+RID39100    hypokinesia
+RID39101    hypokinetic
+RID39103    inferoseptal
+RID39104    inferolateral
+RID39105    improved
+RID39106    inadequate
+RID39109    infertility
+RID3911     Gartner duct cyst
+RID39110    indeterminate
+RID39112    insignificant
+RID39113    insufficient
+RID39114    sufficient
+RID39115    intact
+RID39118    intertarsal
+RID3912     hydrocele
+RID39120    known
+RID39121    lateral
+RID39122    layered
+RID39123    length
+RID39124    macroscopic
+RID39125    microscopic
+RID39126    hypoenhancement
+RID39127    late arterial phase
+RID39128    process
+RID39129    biological process
+RID3913     juxtaarticular cyst
+RID39130    metabolism
+RID39131    metallic
+RID39132    motility
+RID39133    multilobulated
+RID39136    myelomalacia
+RID39137    myocardial bridge
+RID39138    odynophagia
+RID39139    os trigonum
+RID3914     lymphoepithelial cyst
+RID39141    postmenopausal
+RID39142    posteromedial
+RID39143    posterolateral
+RID39144    width
+RID39146    capsule appearance
+RID39147    equivocal
+RID39149    mosaic architecture
+RID3915     meniscal cyst
+RID39150    nodule-in-nodule
+RID39151    white
+RID39153    turbid
+RID39154    purulent
+RID3916     mesothelial cyst
+RID39160    measurement unit
+RID39161    Hounsfield unit
+RID39162    progressive
+RID39163    minimum
+RID39164    maximum
+RID39167    circumference
+RID39168    retrolisthesis
+RID39169    rotoscoliosis
+RID39170    satisfactory
+RID39171    serrated
+RID39172    serosanguinous
+RID39173    sonographic Murphy sign
+RID39174    suboptimal
+RID39175    suspected
+RID39176    symptomatic
+RID39177    uncertain
+RID39178    congenital anomaly of uterus
+RID39179    unicornuate uterus
+RID3918     Mullerian duct cyst
+RID39182    unsatisfactory
+RID39183    unstable
+RID39184    varicocele
+RID39185    venous thrombosis
+RID39186    vomiting
+RID39187    wide
+RID39206    multisystem disorder
+RID39207    bilious
+RID39208    bloody
+RID39209    circumaortic
+RID3921     Nabothian cyst
+RID39210    bicornate uterus
+RID39213    corticomedullary phase
+RID39214    nephrographic phase
+RID39215    excretory phase
+RID39218    deformity
+RID39219    dizziness
+RID3922     neurenteric cyst
+RID39220    echocardiography
+RID39221    femoral
+RID39222    gestation
+RID39223    gluteal
+RID39224    mean value calculated
+RID39225    nonevaluable
+RID39226    noncalcified
+RID39227    nonpatent
+RID39228    nonbilious
+RID39229    paraaortic
+RID39231    pedicular
+RID39232    suprapedicular
+RID39233    perihilar
+RID39234    peristalsis
+RID39235    perpendicular
+RID39237    premature
+RID39238    regurgitation
+RID39239    retroaortic
+RID39240    retroflexed
+RID39241    superolateral
+RID39242    supraclinoid
+RID39243    supralevator
+RID39244    swallowing
+RID39249    atherosclerotic aneurysm
+RID3925     neuroglial cyst
+RID39250    allergy
+RID39251    anteroseptal
+RID39252    chemotherapy
+RID39253    contamination
+RID39254    contralateral
+RID39255    uterus didelphys
+RID39256    impeded
+RID39259    patella alta
+RID39261    pre-aortic
+RID39262    radiotherapy
+RID39263    sepsis
+RID39264    septal
+RID39265    shortness of breath
+RID39266    mature
+RID39267    ulnar
+RID39268    unchanged
+RID39269    unfolded
+RID3927     neuroepithelial cyst
+RID39270    fibromyoma
+RID39271    worsening
+RID39272    dural
+RID39273    tumor stage
+RID39274    T stage
+RID39275    N stage
+RID39279    Tis
+RID3928     odontogenic cyst
+RID3929     parapelvic cyst
+RID3930     pars intermedia cyst
+RID39308    adequate
+RID39311    arcuate
+RID39312    cervical ribs
+RID39314    suspicious
+RID39316    height
+RID39317    infiltrate
+RID39318    transglottic
+RID3932     perineural cyst
+RID39322    hydrops fetalis
+RID39326    epiploic foramen
+RID39332    post-transplant
+RID39334    intraoperative
+RID39337    greater than 1 hour
+RID39338    less than 1 hour
+RID39339    arthrocentesis
+RID39340    compression repair of pseudoaneurysm
+RID39342    platelet-rich plasma injection
+RID3935     Rathke cleft cyst
+RID39357    tuberosity
+RID3936     retention cyst
+RID3939     spermatocele
+RID3940     synovial cyst
+RID39409    composition
+RID3941     Tornwaldt cyst
+RID39412    hypermetabolic
+RID39413    misregistration artifact
+RID3942     thymic cyst
+RID39427    atypical epithelium
+RID3943     thyroglossal duct cyst
+RID39440    cirrhosis-associated nodules
+RID39442    corona enhancement
+RID39446    diagnostic
+RID39447    diameter reduction
+RID3945     simple bone cyst
+RID39451    fade
+RID39452    feature
+RID39453    focal scar
+RID39457    heterogeneous enhancement
+RID39460    diameter increase
+RID39461    increasing enhancement
+RID39462    infiltrative hepatocellular carcinoma
+RID39463    intralesional fat
+RID39466    liver mass
+RID39467    T2 hyperintensity
+RID39473    perfusion alteration
+RID39474    perivascular
+RID39476    pre-contrast imaging
+RID39478    rounded
+RID39479    spontaneous hemorrhage
+RID3948     aneursymal bone cyst
+RID39481    suggestive
+RID39486    washout appearance
+RID3949     ganglion cyst
+RID39492    muscle belly
+RID3950     cholesteatoma
+RID39500    levator ani
+RID39509    pelvic girdle
+RID3951     acquired cholesteatoma
+RID39518    shoulder
+RID3952     congenital cholesteatoma
+RID39523    incisive canal
+RID3953     granuloma
+RID39533    angle
+RID39534    early hepatic arterial phase
+RID39535    late hepatic arterial phase
+RID39536    diffusion-weighted hyperintensity
+RID39538    hysterosonography
+RID39539    oocyte retrieval
+RID3954     pseudocyst
+RID39542    transrectal
+RID39543    transvaginal
+RID39544    transplanted kidney
+RID39546    fetal abnormality
+RID39547    growth
+RID39548    fetal growth
+RID39549    pregnancy stage
+RID3955     mucocele
+RID39550    first trimester
+RID39551    second trimester
+RID39552    third trimester
+RID39554    twin pregnancy
+RID39562    disappearance
+RID39563    homogeneous enhancement
+RID3957     neoplasm
+RID396      perineum
+RID3962     acinar cell carcinoma
+RID39626    medial condyle of tibia
+RID39629    lateral condyle of tibia
+RID3963     acinar cell cystadenocarcinoma
+RID3965     angioblastoma
+RID3966     angiofibroma
+RID3967     cystic angiomatosis
+RID39681    olecranon
+RID3969     hemangioma
+RID397      peritoneal cavity
+RID3970     angiokeratoma
+RID3972     capillary hemangioma
+RID3973     cavernous angioma
+RID3976     epithelioid hemangioma
+RID3977     infantile hemangioma
+RID3978     racemose hemangioma
+RID398      paracolic gutter
+RID3980     rapidly involuting congenital hemangioma
+RID3981     noninvoluting congenital hemangioma
+RID3982     intramuscular hemangioma
+RID3983     hemangiomatosis
+RID3984     lobular capillary hemangioma
+RID3986     venous hemangioma
+RID3987     verrucous keratotic hemangioma
+RID3988     hemangioendothelioma
+RID3989     angiosarcoma
+RID399      subphrenic space
+RID3991     epithelioid hemangioendothelioma
+RID3992     infantile hemangioendothelioma
+RID3993     Kaposiform hemangioendothelioma
+RID3994     spindle cell hemangioendothelioma
+RID3995     hemangioblastoma
+RID3997     hemangiopericytoma
+RID3998     hemangiosarcoma
+RID3999     Kaposi sarcoma
+RID400      subhepatic space
+RID4002     osteoma
+RID4003     enostosis
+RID4005     osteoid osteoma
+RID4006     osteoblastoma
+RID4007     aggressive osteoblastoma
+RID4008     ossifying fibroma
+RID4009     juvenile ossifying fibroma
+RID4010     osteosarcoma
+RID4011     central osteosarcoma
+RID4012     chondroblastic osteosarcoma
+RID4013     fibroblastic osteosarcoma
+RID4014     gnathic osteosarcoma
+RID4016     intracortical osteosarcoma
+RID4019     osteosarcoma in Paget disease of bone
+RID402      hepatorenal fossa
+RID4020     multicentric osteosarcoma
+RID4021     parosteal osteosarcoma
+RID4022     periosteal osteosarcoma
+RID4023     small cell osteosarcoma
+RID4024     telangiectatic osteosarcoma
+RID4026     glioma
+RID4027     astrocytoma
+RID4028     astrocytoma WHO grade I
+RID4029     pilocytic astrocytoma
+RID4031     pleomorphic xanthoastrocytoma
+RID4033     subependymal giant cell astrocytoma
+RID4035     astrocytoma WHO grade II
+RID4038     gemistocytic astrocytoma
+RID4040     fibrillary astrocytoma
+RID4042     astrocytoma WHO grade III
+RID4044     astrocytoma WHO grade IV
+RID4046     giant cell glioblastoma
+RID4048     gliosarcoma
+RID4050     ependymal tumor
+RID4052     ependymoma WHO grade I
+RID4053     myxopapillary ependymoma
+RID4055     subependymoma
+RID4057     ependymoma WHO grade II
+RID4058     cellular ependymoma
+RID4060     clear cell ependymoma
+RID4062     papillary ependymoma
+RID4064     tanycytic ependymoma
+RID4066     anaplastic ependymoma
+RID4069     malignant optic glioma of adulthood
+RID407      cul-de-sac
+RID4071     mixed glioma
+RID4072     oligoastrocytoma
+RID4074     anaplastic oligoastrocytoma
+RID4078     oligodendroglioma
+RID4080     anaplastic oligodendroglioma
+RID4082     pituicytoma
+RID4084     choroid plexus carcinoma
+RID4086     choroid plexus papilloma
+RID4088     meningioma
+RID40883    ulnar collateral ligament
+RID4090     meningioma WHO grade I
+RID4091     angiomatous meningioma
+RID4093     fibrous meningioma
+RID4096     lymphoplasmacyte-rich meningioma
+RID4098     meningothelial meningioma
+RID410      peritoneum
+RID4100     metaplastic meningioma
+RID4104     psammomatous meningioma
+RID4106     secretory meningioma
+RID4108     transitional meningioma
+RID4111     meningioma WHO grade II
+RID4112     atypical meningioma
+RID4114     chordoid meningioma
+RID4116     clear cell meningioma
+RID4118     meningioma WHO grade III
+RID4119     anaplastic meningioma
+RID4121     papillary meningioma
+RID4123     rhabdoid meningioma
+RID4126     chondroma
+RID4128     enchondroma
+RID4129     enchondromatosis
+RID413      gastrohepatic ligament
+RID4131     Maffucci syndrome
+RID4132     periosteal chondroma
+RID4134     chondroblastoma
+RID4135     chondromyxoid fibroma
+RID4136     osteochondroma
+RID4137     hereditary multiple exostoses
+RID4138     osteochondromatosis
+RID4139     synovial osteochondromatosis
+RID4140     chondrosarcoma
+RID4141     juxtacortical chondrosarcoma
+RID4142     clear cell chondrosarcoma
+RID4143     mesenchymal chondrosarcoma
+RID4144     dedifferentiated chondrosarcoma
+RID4145     myxoid chondrosarcoma
+RID4146     chordoma
+RID4147     craniopharyngioma
+RID4150     cystadenoma
+RID4151     mucinous cystadenoma
+RID4152     papillary cystadenoma
+RID4153     cystadenocarcinoma
+RID4155     papillary cystadenocarcinoma
+RID4156     serous cystadenocarcinoma
+RID4157     intraductal papillary mucinous neoplasm
+RID4161     mucinous adenocarcinoma
+RID4162     pseudomyxoma peritonei
+RID4164     mucinous cystic neoplasm
+RID4169     serous cystadenoma
+RID4173     solid and papillary epithelial neoplasm
+RID4177     endolymphatic sac tumor
+RID4178     odontogenic tumor
+RID4179     adamantinoma
+RID4180     adenomatoid odontogenic tumor
+RID4181     ameloblastic fibro-odontoma
+RID4183     ameloblastic fibroma
+RID4184     ameloblastic fibrosarcoma
+RID4187     ameloblastoma
+RID4188     calcifying epithelial odontogenic tumour
+RID4189     calcifying odontogenic cyst
+RID4190     cementifying fibroma
+RID4192     cementoma
+RID4195     complex odontoma
+RID4196     compound odontoma
+RID4200     odontoameloblastoma
+RID4202     odontogenic ghost cell tumor
+RID4203     odontogenic myxoma
+RID4207     odontoma
+RID4210     epithelial neoplasm
+RID4211     adenoma
+RID4214     adrenal cortical adenoma
+RID4215     hepatocellular adenoma
+RID4216     juxtaglomerular tumor
+RID4218     metanephric adenoma
+RID4219     nephrogenic adenoma
+RID4220     pituitary adenoma
+RID4221     pituitary macroadenoma
+RID4222     pituitary microadenoma
+RID4223     tubular adenoma
+RID4224     tubulovillous adenoma
+RID4225     villous adenoma
+RID4226     adenocarcinoma
+RID4227     adenoid cystic carcinoma
+RID4228     ductal adenocarcinoma
+RID4229     squamous adenocarcinoma
+RID4230     renal adenocarcinoma
+RID42344    medial head of gastrocnemius
+RID4235     clear cell adenocarcinoma
+RID4236     chromophobe adenocarcinoma
+RID4237     oncocytic adenocarcinoma
+RID4238     adenolymphoma
+RID4241     adenosquamous carcinoma
+RID4243     bronchioloalveolar carcinoma
+RID4246     carcinoid tumor
+RID4247     carcinoma
+RID4248     anaplastic thyroid carcinoma
+RID4249     clear cell carcinoma
+RID4250     embryonal cell carcinoma
+RID4251     gastric carcinoma
+RID4252     giant cell carcinoma
+RID4253     large cell carcinoma
+RID4254     mucoepidermoid carcinoma
+RID4255     pituitary carcinoma
+RID4256     small cell carcinoma
+RID4259     squamous cell carcinoma
+RID426      mesoappendix
+RID4260     spindle cell squamous carcinoma
+RID4264     carcinomatosis
+RID4265     carcinoma in situ
+RID4266     cholangiocarcinoma
+RID4267     intrahepatic cholangiocarcinoma
+RID4269     collecting duct carcinoma
+RID427      root of mesentery
+RID4271     hepatocellular carcinoma
+RID4273     fibrolamellar hepatocellular carcinoma
+RID4274     pancreatic intraepithelial neoplasia
+RID4275     papilloma
+RID4276     Schneiderian papilloma
+RID4277     squamous papilloma
+RID4278     thymoma
+RID4279     transitional cell carcinoma
+RID428      sigmoid mesocolon
+RID4282     tumorlet
+RID4284     adenofibroma
+RID4285     fibroadenoma
+RID4286     Brenner tumor
+RID4287     phyllodes tumor
+RID4289     fibroma
+RID429      transverse mesocolon
+RID4290     nonossifying fibroma
+RID4291     desmoid
+RID4293     periosteal desmoid
+RID4295     desmoplastic fibroma
+RID4296     juvenile aponeurotic fibroma
+RID4297     infantile dermal fibromatosis
+RID4298     aggressive infantile fibromatosis
+RID4299     infantile myofibromatosis
+RID430      greater omentum
+RID4300     fibrosarcoma
+RID4301     myxoid fibrosarcoma
+RID4302     solitary fibrous tumor
+RID4304     fibrous histiocytoma
+RID4307     fibromyxosarcoma
+RID4309     giant cell tumor
+RID431      retroperitoneum
+RID4310     inflammatory myofibroblastic tumor
+RID43114    extensor digitorum
+RID4312     fibroelastoma
+RID4313     fibroelastosis
+RID4314     germ cell neoplasm
+RID4315     germinoma
+RID4316     seminoma
+RID4317     spermatocytic seminoma
+RID4318     dysgerminoma
+RID4319     non-seminomatous germ cell tumor
+RID4321     teratoma
+RID4322     mature teratoma
+RID4323     immature teratoma
+RID4324     choriocarcinoma
+RID43245    tube insertion
+RID4325     embryonal carcinoma
+RID43254    beaded septum sign
+RID43255    consolidation
+RID43256    crazy-paving pattern
+RID43257    pulmonary fissure
+RID43259    azygos fissure
+RID4326     yolk sac tumor
+RID43265    lobular core structure
+RID43266    nodular pattern
+RID43267    perilobular
+RID43268    perilymphatic
+RID43269    pleural plaque
+RID43270    pseudocavity
+RID43271    reticular pattern
+RID43272    reticulonodular pattern
+RID43273    septal lines
+RID43274    Kerley A lines
+RID43275    Kerley B lines
+RID43278    small-airways disease
+RID4328     mixed germ cell tumor
+RID43288    rectangular
+RID43290    rim enhancement pattern
+RID43291    incomplete rim
+RID43294    homogeneously dense
+RID43295    adjacent to gallbladder
+RID4330     gestational trophoblastic tumor
+RID43308    thick rim
+RID43309    thin rim
+RID4331     hydatidiform mole
+RID43310    irregular rim
+RID43311    lesion load
+RID43312    solitary lesion
+RID43313    multiple lesions
+RID43319    peripheral discontinuous nodular enhancement
+RID4332     partial hydatidiform mole
+RID43321    mottled enhancement
+RID43322    mixed enhancement pattern
+RID43323    centripetal fill-in
+RID43324    visible internal vessels
+RID43325    central scar
+RID43326    nonenhancing central scar
+RID4333     placental site trophoblastic tumor
+RID43335    internal nodules
+RID43336    water density
+RID43337    soft tissue density
+RID43343    cholangiocellular carcinoma
+RID43349    restricted diffusion
+RID4335     hamartoma
+RID43352    HCC treatment
+RID43355    arterial phase hyperenhancement
+RID43356    lesion characteristic
+RID43359    lesion margin
+RID4336     Brunner gland hyperplasia
+RID43364    lesion shape
+RID43365    lesion enhancement
+RID43370    memory loss
+RID43373    ACE inhibitor
+RID43374    arbutamine
+RID43377    diuretic
+RID4338     hamartoma of tuber cinereum
+RID43384    I-123
+RID43386    I-131
+RID43393    Tc-99m mercaptoacetyltriglycine
+RID43396    stress agent
+RID43397    number of views
+RID4340     mesenchymal hamartoma
+RID43412    chest mass
+RID43413    juxtaphrenic peak
+RID4342     lipoma
+RID4343     angiomyolipoma
+RID4344     angiolipoma
+RID4345     atypical lipoma
+RID4346     chondroid lipoma
+RID4347     fibrolipoma
+RID43476    mucosa of prostatic urethra
+RID4348     fibromyxolipoma
+RID4349     hibernoma
+RID4350     intramuscular lipoma
+RID4352     intraosseous lipoma
+RID4353     myelolipoma
+RID4354     parosteal lipoma
+RID43554    lumbosacral spine
+RID43556    with delayed imaging
+RID4356     spindle cell lipoma
+RID43561    duodenography
+RID43562    endoscopic retrograde cholangiopancreatography
+RID43563    esophagography
+RID43564    hysterosalpingography
+RID43565    loopogram
+RID43569    percutaneous cholangiography
+RID4357     lipoblastomatosis
+RID43570    pyelography
+RID43572    urethrography
+RID43573    retrograde urethrography
+RID43575    T-tube cholangiography
+RID43576    cystourethrography
+RID43577    weight-bearing position
+RID43578    bucky
+RID4358     liposarcoma
+RID43581    fetal age
+RID43582    imaging view
+RID43583    AP view
+RID43584    apical lordotic view
+RID43585    bending view
+RID43586    cone view
+RID43588    erect view
+RID43589    extension view
+RID4359     well differentiated liposarcoma
+RID43590    flexion view
+RID43591    lateral view
+RID43594    PA view
+RID43597    spot view
+RID4360     dedifferentiated liposarcoma
+RID4361     mixed liposarcoma
+RID4362     fibroblastic liposarcoma
+RID43625    Grashey view
+RID4363     myxoid liposarcoma
+RID43637    Judet view
+RID4364     pleomorphic liposarcoma
+RID4365     round cell liposarcoma
+RID43654    Merchant view
+RID4366     angiomyoliposarcoma
+RID4367     lipomatous neoplasm
+RID43686    Towne view
+RID43690    West Point view
+RID43693    optic foramen
+RID43695    weight-bearing
+RID43697    Tc-99m DTPA
+RID4370     lymphangioma
+RID43703    left subclavian vein
+RID43704    subscapularis bursa
+RID4371     lymphangiomatosis
+RID4372     lymphangioleiomyomatosis
+RID4374     melanocytoma
+RID4375     malignant melanoma
+RID4377     mesothelioma
+RID4378     epithelial mesothelioma
+RID438      lateral conal fascia
+RID4386     leiomyoblastoma
+RID4387     leiomyosarcoma
+RID4389     leiomyoma
+RID439      extraperitoneal space
+RID4394     rhabdomyomatous neoplasm
+RID4395     rhabdomyoma
+RID4396     rhabdomyosarcoma
+RID4397     myxoma
+RID440      perivesical space
+RID4400     chordoid glioma of third ventricle
+RID4404     medulloepithelioma
+RID4406     ependymoblastoma
+RID4408     medulloblastoma
+RID441      prevesical space
+RID4410     classic medulloblastoma
+RID4411     desmoplastic medulloblastoma
+RID4413     large cell medulloblastoma
+RID44133    subacromial bursa
+RID4416     melanocytic medulloblastoma
+RID4418     supratentorial primitve neuroectodermal tumor
+RID4424     atypical teratoid rhabdoid tumor
+RID4427     gliomatosis cerebri
+RID4429     astroblastoma
+RID443      presacral space
+RID4432     esthesioneuroblastoma
+RID4444     malignant peripheral nerve sheath tumor
+RID4451     Triton tumor
+RID4454     neuroblastoma
+RID4456     intermixed ganglioneuroblastoma
+RID4458     ganglioneuroma
+RID4460     nodular ganglioneuroblastoma
+RID4462     neurofibroma
+RID4464     circumscribed neurofibroma
+RID4466     plexiform neurofibroma
+RID4467     perineurioma
+RID4470     intraneural perineurioma
+RID4471     soft tissue perineurioma
+RID4472     retinoblastoma
+RID4473     schwannoma
+RID4478     cellular schwannoma
+RID4479     melanotic schwannoma
+RID4480     plexiform schwannoma
+RID4481     acoustic schwannoma
+RID4483     neuroendocrine neoplasm
+RID4484     gastrinoma
+RID4485     glucagonoma
+RID4486     insulinoma
+RID4487     islet cell tumor
+RID4488     medullary carcinoma
+RID4491     pineoblastoma
+RID4493     pineocytoma
+RID4497     somatostatinoma
+RID4498     VIPoma
+RID4500     central neurocytoma
+RID4501     cerebellar liponeurocytoma
+RID4502     desmoplastic infantile astrocytoma
+RID45037    posterior circumflex humeral artery
+RID4504     dysembryoplastic neuroepithelial tumor
+RID4506     dysplastic gangliocytoma of cerebellum
+RID4509     gangliocytoma
+RID45101    anterior interosseous artery
+RID45107    median artery
+RID4511     ganglioglioma
+RID4512     paraganglioma
+RID4515     oncocytoma
+RID4516     pheochromocytoma
+RID45164    arteria princeps pollicis
+RID4517     sinonasal undifferentiated carcinoma
+RID4521     sarcoma
+RID4522     Ewing sarcoma
+RID4525     adenomyoma
+RID4526     adenosarcoma
+RID4527     carcinoma ex pleomorphic adenoma
+RID4528     carcinosarcoma
+RID4529     embryonal sarcoma
+RID4530     hepatoblastoma
+RID4531     mixed Mullerian tumor
+RID4533     mesenchymoma
+RID4534     mesoblastic nephroma
+RID4538     multilocular cystic renal tumor
+RID4539     cystic nephroma
+RID4540     cystic partially differentiated nephroblastoma
+RID4543     pancreatoblastoma
+RID4544     pleomorphic adenoma
+RID4546     pulmonary blastoma
+RID4549     stromal tumor
+RID4551     gastrointestinal stromal tumor
+RID4553     Wilms tumor
+RID4557     clear cell sarcoma
+RID4558     synovial sarcoma
+RID4559     biphasic synovial sarcoma
+RID456      paracardiac lymph node
+RID4560     epithelioid cell synovial sarcoma
+RID4561     spindle cell synovial sarcoma
+RID4562     thecoma
+RID45633    subdeltoid bursa
+RID45637    single breath
+RID45638    stimulation
+RID45639    suppression
+RID45640    wall motion
+RID45642    shunt patency
+RID45644    vascular flow
+RID45645    ejection fraction
+RID45646    liquid
+RID45647    ventilation
+RID45648    ictal
+RID45649    probe
+RID45651    redistribution
+RID45652    treatment planning
+RID45655    single determination
+RID45657    imaging pass
+RID45658    first pass
+RID45659    babygram
+RID45660    extended
+RID45661    oblique view
+RID45670    moderately irregular margin
+RID45672    fungal microabscess
+RID45674    iso- to slightly hyperdense
+RID45675    thin septae
+RID45676    thick septae
+RID45678    bland thrombus in portal vein
+RID45681    tumor thrombus in portal vein
+RID45682    breast cancer
+RID45683    cervical cancer
+RID45684    colorectal cancer
+RID45685    endometrial cancer
+RID45686    lung cancer
+RID45687    ovarian cancer
+RID45688    pancreatic cancer
+RID45689    prostate cancer
+RID45690    testicular cancer
+RID45691    thyroid cancer
+RID45692    enhancing central scar
+RID45693    blood pool imaging
+RID45696    esophageal cancer
+RID45697    head and neck cancer
+RID45698    surgical biopsy
+RID45699    stereotactic biopsy
+RID45700    needle localization
+RID45702    computer-aided detection
+RID45703    additional views
+RID45705    galactography
+RID45706    with implants
+RID45707    multiple ducts
+RID45708    single duct
+RID45710    endoscopy
+RID45711    catheter insertion
+RID45714    fistulography
+RID45715    sinography
+RID45717    pharyngography
+RID45718    videography
+RID45722    central hypodensity
+RID45723    mixed lytic and sclerotic
+RID45724    sclerotic
+RID45725    chondroid
+RID45728    lucent
+RID45729    lytic
+RID45730    ivory-like
+RID45731    rings and arcs
+RID45732    cloud-like
+RID45733    flocculent
+RID45737    narrow transition
+RID45738    wide transition
+RID45739    thick sclerotic
+RID45740    thin sclerotic
+RID45741    non-sclerotic
+RID45744    cancer of unknown primary
+RID45749    non-destructive
+RID45753    continuous
+RID45754    thick continuous
+RID45755    thin continuous
+RID45764    non-aggressive
+RID45765    cortical
+RID45768    nephroureterostomy
+RID45771    microspheres
+RID45772    intrathecal
+RID45774    chest pain
+RID45775    In-111
+RID45776    glomerular filtration rate
+RID45779    supine view
+RID45780    left lateral view
+RID45782    cross table lateral view
+RID45783    carpal tunnel view
+RID45785    transthoracic view
+RID45786    sunrise view
+RID45787    tunnel view
+RID45788    inlet view
+RID45789    outlet view
+RID45790    axillary view
+RID45792    basilar view
+RID45793    hyperthyroidism
+RID45794    morphine
+RID45796    ossific
+RID45798    post-vertebroplasty
+RID45799    post-procedure
+RID4580     smoke inhalation
+RID45802    runoff
+RID45804    18F-Sodium Fluoride
+RID45805    dipyridamole
+RID45806    dobutamine
+RID4581     poisoning
+RID45829    Alert
+RID45836    Billed
+RID45846    Coded
+RID45849    Consult
+RID45859    Dictated
+RID4588     radiation enteritis
+RID4591     postoperative change
+RID45914    images prepared
+RID4592     fat packing
+RID4593     postoperative complication
+RID45932    image review
+RID4594     afferent loop syndrome
+RID45944    Transcribed
+RID45945    Transferred
+RID4595     efferent loop syndrome
+RID4596     alkaline reflux gastritis
+RID4597     anastomotic leak
+RID4599     anastomotic narrowing
+RID46004    bronchial tree
+RID46008    neuronavigation
+RID46011    partially solid
+RID46012    mostly solid
+RID46013    completely solid
+RID46014    cavitated
+RID46016    non-solid
+RID46017    attachment
+RID46021    septal thickening
+RID46022    lesion periphery
+RID46023    panacinar
+RID46024    paraseptal
+RID46025    paracicatricial
+RID46027    bronchial wall thickening
+RID4603     hardware failure
+RID46030    mosaic oligemia
+RID46031    random
+RID46032    subpleural
+RID46033    retraction
+RID46034    pleural retraction
+RID46036    vascular convergence sign
+RID46038    congenital anomaly of skeletal bone
+RID46039    chondrodysplasia
+RID4604     improper placement
+RID46040    pyloric stenosis
+RID46041    vascular disease
+RID46043    acromegaly
+RID46044    Budd-Chiari syndrome
+RID46045    trisomy 18
+RID46047    talocalcaneal coalition
+RID46048    calcaneonavicular coalition
+RID46049    thanatophoric dysplasia
+RID4605     failed back surgery syndrome
+RID46050    vertebral fusion
+RID46051    bronchovascular
+RID46056    not applicable
+RID46057    upper
+RID46058    lower
+RID46059    low
+RID46060    high
+RID46061    moderately high
+RID46062    satellite nodule
+RID46067    high-risk
+RID46068    average-risk
+RID46070    feeding tube placement
+RID46072    therapy infusion
+RID46073    lumbar puncture
+RID46074    water-soluble contrast
+RID46075    antispasmodic
+RID46076    selective
+RID4608     postpericardiotomy syndrome
+RID4609     short bowel syndrome
+RID4611     stump blowout
+RID4613     endoleak
+RID4614     stent malposition
+RID4615     shunt dysfunction
+RID4617     polyethylene wear
+RID4624     pin-track infection
+RID4626     subglottal stenosis
+RID4628     injury
+RID4630     Traumatic Injury
+RID4631     hyperextension injury
+RID4632     hyperflexion injury
+RID4633     penetrating injury
+RID4635     blunt injury
+RID4636     rotation injury
+RID4637     shear injury
+RID4638     whiplash
+RID4640     injury due to frostbite
+RID4643     child abuse
+RID4644     diffuse axonal injury
+RID4646     entrapment syndrome
+RID4647     carpal tunnel syndrome
+RID4648     cubital tunnel syndrome
+RID4650     fracture
+RID4653     avulsion fracture
+RID4654     bowing fracture
+RID4655     burst fracture
+RID4658     compression fracture
+RID4659     dens fracture
+RID4660     type 1 dens fracture
+RID4661     type 2 dens fracture
+RID4662     type 3 dens fracture
+RID4664     Chance fracture
+RID4665     fracture dislocation
+RID4666     greenstick fracture
+RID4667     insufficiency fracture
+RID4668     Jefferson fracture
+RID4669     hangman fracture
+RID4676     orbital wall fracture
+RID4679     occipital condyle fracture
+RID4680     type 1 occipital condyle fracture
+RID4683     pathologic fracture
+RID4684     Salter-Harris fracture
+RID4685     Salter-Harris type I fracture
+RID4686     Salter-Harris type II fracture
+RID4687     Salter-Harris type III fracture
+RID4688     Salter-Harris type IV fracture
+RID4689     Salter-Harris type V fracture
+RID4694     Segond fracture
+RID4695     stress fracture
+RID4696     teardrop fracture
+RID4697     torus fracture
+RID4698     transchondral fracture
+RID4699     wedge compression fracture
+RID4700     hemorrhage
+RID4701     apoplexy
+RID4702     contusion
+RID4703     hemarthrosis
+RID4704     lipohemarthrosis
+RID4705     hematoma
+RID4706     subdural hematoma
+RID4708     epidural hematoma
+RID4709     pulmonary hemorrhage
+RID4710     subarachnoid hemorrhage
+RID4712     transection
+RID4713     rupture
+RID4714     tear
+RID4715     avulsion
+RID4716     annular tear
+RID4724     radial tear
+RID4725     bucket-handle tear
+RID4726     flap tear
+RID4727     healed tear
+RID473      flank
+RID4730     Mallory-Weiss tear
+RID4731     sprain
+RID4732     strain
+RID4733     wound
+RID4734     laceration
+RID4735     puncture
+RID4738     mechanical disorder
+RID4741     compression
+RID4743     dilation
+RID4746     megaureter
+RID4748     lymphangiectasis
+RID4749     diastasis
+RID4751     displacement
+RID4753     malposition
+RID4755     bowing
+RID4756     scoliosis
+RID4757     dextroscoliosis
+RID4758     levoscoliosis
+RID4759     kyphosis
+RID4760     kyphoscoliosis
+RID4761     lordosis
+RID4763     loss of lordosis
+RID4764     dehiscence
+RID4765     flexion deformity
+RID4766     malalignment
+RID4768     valgus deformity
+RID4769     varus deformity
+RID4770     dislocation
+RID4771     detachment
+RID4772     retinal detachment
+RID4773     choroidal detachment
+RID4774     dissociation
+RID4775     perched facet
+RID4776     jumped facet
+RID4778     subluxation
+RID4779     rotatory subluxation
+RID478      artery
+RID4780     spondylolisthesis
+RID4781     slipped capital femoral epiphysis
+RID4782     tilt
+RID4783     negative ulnar variance
+RID4784     positive ulnar variance
+RID4785     high scapula
+RID4786     volvulus
+RID4787     prolapse
+RID4788     cystocele
+RID4789     rectocele
+RID4790     procidentia
+RID4794     parachute mitral valve
+RID4795     ptosis
+RID4796     wandering spleen
+RID4799     emphysema
+RID480      aorta
+RID4800     pneumocephalus
+RID4801     pneumatosis
+RID4802     pneumatosis intestinalis
+RID4803     pneumoperitoneum
+RID4805     bone fragment
+RID4806     avulsed bone fragment
+RID4807     meniscal fragment
+RID48083    defecography
+RID48084    enteroclysis
+RID48085    follow-through
+RID48086    nephrostography
+RID48087    pouchography
+RID48088    sialography
+RID48089    vesiculography
+RID4809     instability
+RID48090    voiding
+RID48091    transcatheter
+RID48094    measurement procedure
+RID481      descending aorta
+RID4810     protuberance
+RID4812     malrotation
+RID4813     torsion
+RID4814     spasm
+RID4815     pylorospasm
+RID4816     torticollis
+RID4817     diverticulum
+RID48179    femoral canal
+RID4818     ileal diverticulum
+RID4821     laryngocele
+RID48216    vastus lateralis
+RID48219    vastus medialis
+RID48222    vastus intermedius
+RID4824     periureteric diverticulum
+RID4825     embolism
+RID48259    tibiofemoral joint
+RID4826     foreign body embolism
+RID4827     air embolism
+RID4830     talc embolism
+RID48306    tibial plateau
+RID4831     oil embolism
+RID4834     pulmonary embolism
+RID4836     septic embolism
+RID4837     thromboembolism
+RID4839     fat embolism
+RID4840     bone marrow embolism
+RID4841     amniotic fluid embolism
+RID4842     tumor embolism
+RID4843     fistula
+RID4844     rectovesical fistula
+RID48449    pes anserinus
+RID4845     colovesical fistula
+RID4846     rectovaginal fistula
+RID4847     perianal fistula
+RID4848     enterovesical fistula
+RID4849     enterocutaneous fistula
+RID4850     enteroenteric fistula
+RID4851     arteriovenous fistula
+RID4854     carotid cavernous fistula
+RID4856     spinal dural arteriovenous fistula
+RID4859     tracheoesophageal fistula
+RID486      left coronary artery
+RID4860     bronchoesophageal fistula
+RID4863     congestion
+RID4865     edema
+RID4866     pulmonary edema
+RID4867     cardiogenic pulmonary edema
+RID4868     hypervolemic pulmonary edema
+RID4869     hypoproteinemic pulmonary edema
+RID4870     neurogenic pulmonary edema
+RID4871     post-ictal pulmonary edema
+RID4872     effusion
+RID4873     hyperemia
+RID4874     leak
+RID4876     intravasation
+RID4877     extravasation
+RID4879     urine leak
+RID4881     cerebrospinal fluid leak
+RID4883     hydrops
+RID4884     abnormal accumulation of fluid
+RID4885     hydrocephalus
+RID4886     communicating hydrocephalus
+RID4887     external hydrocephalus
+RID4888     noncommunicating hydrocephalus
+RID4889     normal-pressure hydrocephalus
+RID4891     obstructive hydrocephalus
+RID4892     lymphocele
+RID4893     hygroma
+RID4894     cystic hygroma
+RID48947    medial collateral ligament
+RID4895     hernia
+RID4897     hiatal hernia
+RID4898     sliding hiatal hernia
+RID4899     paraesophageal hernia
+RID4900     internal abdominal hernia
+RID49012    popliteomeniscal fascicle
+RID4902     paraduodenal hernia
+RID4904     pericecal hernia
+RID4905     lesser sac hernia
+RID4906     foramen of Winslow hernia
+RID4907     intersigmoid hernia
+RID4909     intramesosigmoid hernia
+RID4910     transmesenteric hernia
+RID4911     transomental hernia
+RID4912     retroanastomotic hernia
+RID4914     abdominal wall hernia
+RID4915     umbilical hernia
+RID4916     Richter hernia
+RID4917     ventral hernia
+RID4918     Spigelian hernia
+RID4919     lumbar hernia
+RID4920     incisional hernia
+RID4926     inguinal hernia
+RID4927     indirect inguinal hernia
+RID4928     direct inguinal hernia
+RID4929     Littre hernia
+RID4930     femoral hernia
+RID4931     obturator hernia
+RID4932     sciatic hernia
+RID4933     perineal hernia
+RID4934     diaphragmatic hernia
+RID4936     hernia through esophageal hiatus
+RID4938     hernia through foramen of Morgagni
+RID4941     pregnancy
+RID4942     ectopic pregnancy
+RID4943     intussusception
+RID49438    antibiotic
+RID4944     perforation
+RID49440    fluoroscopy time
+RID49442    indication
+RID49444    ultrasound-guided
+RID49445    monitored
+RID49446    cavoatrial
+RID49447    suprarenal
+RID49448    infrarenal
+RID49449    surrogate
+RID4945     spontaneous esophageal perforation
+RID49450    fluoroscopic
+RID49451    kerma
+RID49452    mid-level
+RID49453    occlusive
+RID49454    non-occlusive
+RID49455    aborted
+RID49456    tilted
+RID49457    deployed
+RID49458    duplex kidney
+RID49460    parenchyma of thymus
+RID49461    lobe of thymus
+RID49462    right lobe of thymus
+RID49463    left lobe of thymus
+RID49464    capsule of thymus
+RID49475    pacemaker insertion
+RID49477    single plane
+RID49479    actionable finding
+RID4948     cerebral herniation
+RID49485    F
+RID49487    F
+RID49489    clustered ring enhancement
+RID4949     subfalcine herniation
+RID49495    lenticular
+RID49496    drop-shaped
+RID49497    erased charcoal sign
+RID4950     uncal herniation
+RID49500    markedly hypointense
+RID49501    T2 hypointensity
+RID49502    clinically significant prostate cancer
+RID49503    extraprostatic
+RID4951     transtentorial herniation
+RID49518    prostatic intraepithelial neoplasia
+RID49522    focal prostatitis
+RID49524    benign prostatic hyperplasia nodule
+RID49526    ADC measurement
+RID49527    ADC value
+RID49529    venous phase
+RID4953     compartment syndrome
+RID49531    dynamic contrast-enhanced magnetic resonance imaging
+RID49543    biliary contrast
+RID49544    bladder contrast
+RID49546    fistula contrast
+RID49548    intraarticular contrast
+RID4955     pseudotumor cerebri
+RID49552    intrauterine contrast
+RID49553    intravenous contrast
+RID49560    therapeutic agent
+RID49562    SIR-spheres
+RID49563    florbetapir
+RID49564    post-therapy
+RID49565    splenoportography
+RID49566    suprapubic
+RID49567    multiple views
+RID49568    uptake
+RID49571    baseline
+RID49572    external
+RID49574    multiple days
+RID49575    initial day
+RID49576    final day
+RID49578    new diagnosis
+RID49579    transhepatic
+RID4958     intracranial hypotension
+RID49580    combined modalities
+RID49583    SPECT-CT
+RID49584    x-ray angiography
+RID49586    bone length
+RID49588    central venous catheter removal
+RID49589    catheter exchange
+RID4959     vacuum phenomenon
+RID49590    dosimetry
+RID49593    endovenous laser treatment
+RID49594    in vitro fertilization
+RID49595    lymphedema
+RID49596    manometry
+RID49597    phlebotomy
+RID49599    procedure simulation
+RID49600    injection treatment
+RID49601    steroid injection
+RID49602    musculoskeletal surgery
+RID49603    tenotomy
+RID49604    thrombin injection
+RID49605    training
+RID49608    vertebral fracture
+RID4961     cavernous transformation
+RID49611    with port
+RID49613    post-void
+RID49617    dialysis fistula
+RID49618    central venous catheter placement
+RID49619    amyloid
+RID4962     obstruction
+RID49624    filter placement
+RID49625    filter removal
+RID49627    foreign body retrieval
+RID49631    wire placement
+RID49645    inferior vena cava contrast
+RID49646    oral cholecystographic contrast
+RID49648    post-exercise
+RID4965     gallstone ileus
+RID49650    language paradigm
+RID49651    motor paradigm
+RID49652    metabolic
+RID49653    number of acquisitions
+RID49654    multiple acquisitions
+RID49655    pharmacologic intervention
+RID49656    transhepatic cholangiography
+RID49657    hemodynamic evaluation
+RID4966     Bouveret syndrome
+RID49669    percutaneous cholecystostomy
+RID4967     gastric outlet obstruction
+RID49670    percutaneous transhepatic biliary drainage
+RID49671    tube exchange
+RID49672    tube injection
+RID49676    suspicious calcification
+RID49677    developing asymmetry
+RID49678    distance
+RID49679    distance from nipple
+RID49682    intraductal calcifications
+RID49687    soft
+RID49688    hard
+RID4969     shunt
+RID49690    simple cyst
+RID49691    postsurgical fluid collection
+RID49692    fat necrosis
+RID49693    tissue composition
+RID49694    almost entirely fat
+RID49695    scattered fibroglandular tissue
+RID4970     cardiac shunt
+RID49700    non-enhancing mass
+RID49707    postoperative seroma/hematoma with fat
+RID4971     left-to-right shunt
+RID49711    silicone breast implant
+RID49712    saline breast implant
+RID49714    retroglandular
+RID49715    retropectoral
+RID49717    abnormal implant contour
+RID49719    radial fold
+RID4972     right-to-left shunt
+RID49720    subcapsular line
+RID49721    keyhole sign
+RID49722    linguine sign
+RID49723    focal bulge
+RID49724    extracapsular silicone
+RID49726    water droplets breast implant observation
+RID4973     steal syndrome
+RID49730    lymphangiography
+RID49731    intravesical contrast
+RID49732    anatomical contrast
+RID49734    thrombolytic agent
+RID49736    transjugular
+RID49737    catheter removal
+RID49739    cholangioscopy
+RID49744    endograft placement
+RID49745    fibrin sheath removal
+RID49746    fiducial placement
+RID49747    ligation
+RID49748    mechanical thrombectomy
+RID49749    microwave ablation
+RID4975     patent ductus arteriosus
+RID49750    nephrostomy placement
+RID49757    percutaneous transluminal angioplasty
+RID4976     perfusion disorder
+RID49764    transjugular intrahepatic portosystemic shunt placement
+RID49767    port placement
+RID4977     hypoperfusion
+RID49773    stricture dilation
+RID49777    core needle biopsy
+RID4978     hyperperfusion
+RID49784    additional day
+RID49785    additional procedure
+RID49786    additional vessel
+RID49788    initial vessel
+RID4979     perfusion defect
+RID49790    device retrieval
+RID49791    catheter retrieval
+RID49792    additional area
+RID49793    multiple areas
+RID49809    distinctive rim
+RID49810    hepatobiliary phase
+RID49815    patient
+RID49816    high-risk patient
+RID49820    transitional phase
+RID49821    unequivocal
+RID49822    low ADC value
+RID49830    panoramic
+RID49831    tube replacement
+RID49834    true
+RID49835    false
+RID49838    tissue sampling
+RID49839    nephrostomy tube
+RID4984     retention
+RID49842    unlisted
+RID49849    percutaneous drainage tube
+RID4985     enterolith
+RID49850    radiosurgery
+RID49855    without and with
+RID49860    anteversion
+RID4987     coprolith
+RID4988     appendicolith
+RID4989     gallstone
+RID4990     gallstone in gallbladder
+RID49914    Vascular
+RID4992     gallstone in bile duct
+RID49936    set of cervical spine vessels
+RID4994     calculus
+RID4996     urolithiasis
+RID5000     calcium stone
+RID5001     cystine stone
+RID5002     uric acid stone
+RID5005     oxalate stone
+RID5006     infection stone
+RID5008     bladder calculus
+RID5010     sialolithiasis
+RID5012     microlith
+RID5013     cast
+RID5014     impaction
+RID50146    coronary artery calcification
+RID5015     inspissation
+RID5016     stenosis
+RID5018     congenital stenosis
+RID5020     middle aortic syndrome
+RID5022     stricture
+RID5026     lower esophageal ring
+RID5027     Schatzki ring
+RID5028     spinal stenosis
+RID5029     central spinal stenosis
+RID50302    PI-RADS 1 - T2WI PZ Normal
+RID5031     moderate central spinal stenosis
+RID5034     foraminal spinal stenosis
+RID5035     hypertrophic pyloric stenosis
+RID50364    normal anatomy
+RID5037     thrombus
+RID5038     ulcer
+RID5039     peptic ulcer
+RID5040     solitary rectal ulcer syndrome
+RID5041     mucosal erosion
+RID5043     Degenerative
+RID5045     degeneration
+RID5046     atrophy
+RID5047     porencephaly
+RID5048     demyelinating disease
+RID5050     central pontine myelinolysis
+RID5052     extrapontine myelinolysis
+RID5054     denervation
+RID5056     hypoxic-ischemic encephalopathy
+RID5059     kernicterus
+RID50609    breast imaging
+RID50618    musculoskeletal radiology
+RID5064     hyperammonemic encephalopathy
+RID5065     Wernicke encephalopathy
+RID5066     Wallerian degeneration
+RID5067     fragmentation
+RID5069     diffuse idiopathic skeletal hyperostosis
+RID5072     enthesophyte
+RID5073     enthesopathy
+RID5074     neuropathic joint
+RID5076     osteophyte
+RID5079     marginal osteophyte
+RID5080     osteophytosis
+RID5081     central osteophyte
+RID5082     periosteal reaction
+RID5084     rhabdomyolysis
+RID5086     intervertebral disc degeneration
+RID5088     disc height loss
+RID5089     disc bulge
+RID5090     disc herniation
+RID5091     disc protrusion
+RID5092     focal disc protrusion
+RID5094     disc extrusion
+RID5097     sequestrated disc fragment
+RID5105     intervertebral osteochondrosis
+RID5116     spondylitis
+RID5119     syndesmophyte
+RID5120     spondylolysis
+RID5121     spondylosis deformans
+RID5123     tendinosis
+RID5124     myxomatous degeneration
+RID5125     neurodegenerative disease
+RID5126     ataxia telangiectasia
+RID5128     amyotrophic lateral sclerosis
+RID5130     cerebrotendinous xanthomatosis
+RID5131     Cockayne Syndrome
+RID5136     dementia
+RID5137     Alzheimer disease
+RID5140     frontotemporal dementia
+RID5142     dementia with Lewy bodies
+RID5143     dementia pugilistica
+RID5148     multi-infarct dementia
+RID5149     Dyke-Davidoff-Masson syndrome
+RID5150     Fahr syndrome
+RID5152     Friedreich ataxia
+RID5153     hereditary cerebellar atrophy
+RID5155     hypertrophic olivary degeneration
+RID5157     Machado-Joseph disease
+RID5158     multiple system atrophy
+RID5161     neurosyphilis
+RID5163     Parkinson disease
+RID5165     progressive supranuclear palsy
+RID5166     Rett syndrome
+RID5167     subacute combined degeneration of spinal cord
+RID5170     phthisis bulbi
+RID5171     necrosis
+RID5172     infarction
+RID5175     infarction of spleen
+RID5178     stroke
+RID5180     osteonecrosis
+RID5181     dysbaric osteonecrosis
+RID5182     Kienbock disease
+RID5183     Panner disease
+RID5185     Sinding-Larsen-Johansson disease
+RID5186     papillary necrosis
+RID5187     deposition
+RID5188     amyloid deposition
+RID519      first obtuse marginal artery
+RID5191     crystal deposition
+RID5192     monosodium urate deposition
+RID5193     tophus
+RID5196     calcification
+RID5197     milk of calcium
+RID5198     porcelain gallbladder
+RID5199     milk of calcium bile
+RID5202     tumoral calcinosis
+RID5203     iron overload
+RID5205     hemochromatosis
+RID5207     fluorosis
+RID5208     pigment deposition
+RID5209     siderotic nodule
+RID5211     superficial siderosis
+RID5212     glycogen deposition
+RID5213     glycogenic acanthosis
+RID5214     cholesterol deposition
+RID5215     cholesterolosis
+RID5216     fat deposition
+RID5217     steatosis
+RID5219     lipomatous infiltration
+RID5221     xanthoma
+RID5222     resorption
+RID5223     ossification
+RID5226     heterotopic ossification
+RID5227     sclerosis
+RID5228     osteosclerosis
+RID5230     disease spread
+RID5231     metastasis
+RID5234     direct extension
+RID5235     lymphangitic spread
+RID5236     hematogenous spread
+RID5237     perineural spread
+RID5238     motor dysfunction
+RID5240     dyskinesia
+RID5244     delayed emptying
+RID5245     dumping syndrome
+RID5246     ileus
+RID5248     eventration
+RID5249     flail
+RID5251     irritable bowel syndrome
+RID5253     cathartic colon
+RID5254     paresis
+RID5255     gastroparesis
+RID5256     paralysis
+RID5259     reflux
+RID5260     gastroesophageal reflux
+RID5261     vesicoureteral reflux
+RID5262     restricted motion
+RID5263     stasis
+RID5266     dysphagia
+RID5272     meconium ileus
+RID5275     malabsorption
+RID5276     bacterial overgrowth syndrome
+RID5277     celiac disease
+RID5281     Whipple disease
+RID5284     meconium plug
+RID5287     distal intestinal obstruction syndrome
+RID5294     loin pain hematuria syndrome
+RID5296     hereditary nephritis
+RID5298     neurogenic bladder disease
+RID5304     renal parenchymal disease
+RID5307     renal failure
+RID5308     uremia
+RID5309     azotemia
+RID5310     proteinuria
+RID5311     acute tubular necrosis
+RID5312     interstitial nephritis
+RID5313     hemolytic uremic syndrome
+RID5315     reflux nephropathy
+RID5317     chronic obstructive pulmonary disease
+RID5319     adult respiratory distress syndrome
+RID5321     pulmonary aspiration
+RID5322     aspiration of solid foreign body
+RID5323     aspiration of digestive secretions
+RID5324     aspiration of lipid
+RID5325     aspiration of liquid
+RID5326     aspiration of water
+RID5327     asthma
+RID5328     chronic infiltrative lung disease
+RID5329     interstitial pneumonia
+RID5330     acute interstitial pneumonia
+RID5331     desquamative interstitial pneumonia
+RID5333     usual interstitial pneumonia
+RID5335     cryptogenic organizing pneumonia
+RID5341     nonspecific interstitial pneumonia
+RID5342     lymphocytic interstitial pneumonia
+RID5343     pneumoconiosis
+RID5344     silicosis
+RID5345     progressive massive fibrosis
+RID5346     asbestosis
+RID5347     other silicate pneumoconiosis
+RID5348     inert dust pneumoconiosis
+RID5349     miscellaneous organic dust pneumoconiosis
+RID5350     pneumonia
+RID5351     eosinophilic pneumonia
+RID5352     pneumothorax
+RID5353     Endocrine Disorder
+RID5354     hypoglycemia
+RID5357     wart
+RID5360     paraneoplastic syndrome
+RID5363     fracture nonunion
+RID5365     Hill-Sachs deformity
+RID5367     intraarticular osseous body
+RID5369     osteochondrosis
+RID5370     Freiberg infraction
+RID5373     Group I Legg-Calve-Perthes disease
+RID5374     Group II Legg-Calve-Perthes disease
+RID5375     Group III Legg-Calve-Perthes disease
+RID5376     Group IV Legg-Calve-Perthes disease
+RID5377     Osgood-Schlatter disease
+RID5378     Scheuermann disease
+RID5379     Sever disease
+RID5380     osteochondritis
+RID5381     osteochondritis dissecans
+RID5382     osteolysis
+RID5384     acroosteolysis
+RID5385     relapsing polychondritis
+RID5387     demineralization
+RID5388     osteopenia
+RID5389     osteoporosis
+RID5390     transient osteoporosis
+RID5391     osteomalacia
+RID5392     osteopetrosis
+RID5395     ankylosis
+RID5397     cartilage defect
+RID5398     chondrocalcinosis
+RID5399     chondrolysis
+RID5400     chondromalacia
+RID5401     pseudarthrosis
+RID5411     bathrocephaly
+RID5412     brachycephaly
+RID5417     plagiocephaly
+RID5418     scaphocephaly
+RID5419     turricephaly
+RID5425     foreign body
+RID5426     bezoar
+RID5428     phytobezoar
+RID5430     battery pack
+RID5433     cardiac defibrillator
+RID5434     automated implantable cardiac defibrillator
+RID5436     pacemaker
+RID5437     electrical stimulator
+RID5438     brain stimulator
+RID5441     dorsal column stimulation unit
+RID5442     bone stimulator device
+RID5445     deep brain stimulator
+RID5446     intracranial pressure monitor
+RID5447     hearing aid
+RID5448     cochlear implant
+RID5449     orbital prosthesis
+RID5450     ocular prosthesis
+RID5451     balloon
+RID5452     detachable balloon
+RID5453     wire
+RID5454     electrocardiogram lead
+RID5456     electrode
+RID5457     recording electrode
+RID5463     partial ossicular replacement
+RID5468     vertebral body cage
+RID5470     bone dowel
+RID5471     fixation device
+RID5474     Kirschner wire
+RID5476     Steinman pin
+RID5477     orthopedic screw
+RID5479     cancellous screw
+RID5480     cortical screw
+RID5481     dynamic compression screw
+RID5482     Herbert screw
+RID5483     interference screw
+RID5484     interfragmentary screw
+RID5486     pedicle screw
+RID5487     Schanz screw
+RID5488     syndesmotic screw
+RID5490     orthopedic plate
+RID5491     blade plate
+RID5495     dynamic compression plate
+RID5497     fusion plate
+RID5502     periarticular locking plate
+RID5503     reconstruction plate
+RID5504     spider plate
+RID5505     T plate
+RID5506     tibial condylar plate
+RID5507     tubular plate
+RID5512     Rush rod
+RID5513     staple
+RID5514     surgical staple
+RID5516     clamp
+RID5517     external fixator
+RID5520     ring fixator
+RID5530     external device
+RID5531     sling
+RID5532     splint
+RID5534     cervical collar
+RID5536     halo vest
+RID5537     arthroplasty device
+RID5540     synthetic material
+RID5543     unicompartmental prosthesis
+RID5544     dental device
+RID5545     dental filling
+RID5549     valve
+RID5550     prosthetic cardiac valve
+RID5555     tube
+RID5557     endotracheal tube
+RID5558     nasotracheal tube
+RID5559     orotracheal tube
+RID5560     tracheostomy tube
+RID5561     feeding tube
+RID5562     gastric tube
+RID5566     nasogastric tube
+RID5568     nasoenteric feeding tube
+RID5570     orogastric tube
+RID5571     mediastinal tube
+RID5573     thoracostomy tube
+RID5575     tympanostomy tube
+RID5576     catheter
+RID5577     brachytherapy catheter
+RID5578     central venous catheter
+RID5579     drainage catheter
+RID5580     drug delivery catheter
+RID5583     pigtail catheter
+RID5584     Swan-Ganz catheter
+RID5585     umbilical arterial catheter
+RID5586     umbilical venous catheter
+RID5587     intraaortic balloon pump
+RID5588     shunt catheter
+RID5589     cerebrospinal fluid shunt
+RID5594     ventriculoperitoneal shunt
+RID5596     ventriculoatrial shunt
+RID5597     lumboperitoneal shunt
+RID5598     stent
+RID56       abdomen
+RID5600     bone graft substitute
+RID5601     demineralized bone matrix
+RID5604     free silicone
+RID5605     needle
+RID5606     sponge
+RID5607     surgical clip
+RID5608     aneurysm clip
+RID5609     surgical wire
+RID5610     surgical drain
+RID5611     wound-vac drain
+RID5614     temperature probe
+RID5617     antibiotic beads
+RID5618     embolic material
+RID5619     embolization coil
+RID5622     adhesive
+RID5623     particulate embolic agent
+RID5624     decoration
+RID5625     jewelry
+RID5626     body piercing
+RID5627     tattoo
+RID5628     missile
+RID5629     birdshot
+RID5630     buckshot
+RID5631     bullet
+RID5632     shrapnel
+RID5634     knife
+RID5635     coin
+RID5640     fetus
+RID5641     child
+RID5642     newborn
+RID5643     infant
+RID5646     adolescent
+RID5647     adult
+RID5648     young adult
+RID5652     gender
+RID5653     male
+RID5654     female
+RID5655     unknown
+RID5658     Congential
+RID5659     genetic
+RID5660     hereditary
+RID5661     sporadic
+RID5662     acquired
+RID5663     developmental
+RID5664     Idiopathic
+RID5665     iatrogenic
+RID5666     spontaneous
+RID5667     syndromic
+RID5668     non-syndromic
+RID5670     minimal
+RID5671     mild
+RID5672     moderate
+RID5673     severe
+RID5676     high grade
+RID5677     low grade
+RID5678     aggressive
+RID5679     indolent
+RID5680     invasive
+RID5681     noninvasive
+RID5682     expansile
+RID5684     limited
+RID5685     extensive
+RID5686     incomplete
+RID5687     partial
+RID5689     complete
+RID5691     minor
+RID5692     major
+RID5693     global
+RID5694     segmental
+RID5695     subsegmental
+RID5696     age appropriate
+RID5697     corrected
+RID5699     coalescent
+RID5700     grouped
+RID5701     diffuse
+RID5702     focal
+RID5703     multifocal
+RID5704     patchy
+RID5705     scattered
+RID5707     circumscribed margin
+RID5709     indistinct margin
+RID5710     obscured margin
+RID5711     lobulated margin
+RID5712     microlobulated margin
+RID5713     spiculated margin
+RID5714     smooth margin
+RID5715     irregular margin
+RID5718     acute
+RID5719     chronic
+RID5720     new
+RID5721     old
+RID5722     fixed
+RID5723     reversible
+RID5724     repetitive
+RID5725     overuse
+RID5726     previous
+RID5727     residual
+RID5728     permanent
+RID5729     postoperative
+RID5730     temporary
+RID5732     increasing
+RID5733     decreasing
+RID5734     stable
+RID5736     early onset
+RID5737     late onset
+RID5739     cystic
+RID5740     serous
+RID5741     solid
+RID5742     hemorrhagic
+RID5743     non-hemorrhagic
+RID5745     proteinaceous
+RID5746     mucinous
+RID5747     calcified
+RID5748     ossified
+RID5749     fat-containing
+RID5750     gas containing
+RID5751     air containing
+RID5752     lipid containing
+RID5753     lipid rich
+RID5754     lipid poor
+RID5755     simple
+RID5757     complex
+RID5759     caseating
+RID5760     non-caseating
+RID5762     single
+RID5765     multiple
+RID5766     too little
+RID5767     too much
+RID5771     bilateral
+RID5773     too small to characterize
+RID5774     small
+RID5775     medium
+RID5778     large
+RID5779     giant
+RID5780     symmetric size
+RID5781     asymmetric size
+RID5782     expanded
+RID5783     contracted
+RID5784     collapsed
+RID5785     decreased in height
+RID5786     dilated
+RID5787     distended
+RID5788     constricted
+RID5789     ectatic
+RID5790     engorged
+RID5791     enlarged
+RID5792     shrunken
+RID5793     deflated
+RID5794     inflated
+RID5795     overinflated
+RID5796     prominent
+RID5797     widened
+RID5799     round
+RID58       liver
+RID580      ascending aorta
+RID5800     oval
+RID5801     lobular
+RID5802     nodular
+RID5803     micronodular
+RID5804     macronodular
+RID5805     polypoid
+RID5806     pedunculated
+RID5807     symmetrical
+RID5808     asymmetrical
+RID5809     irregular
+RID581      aortic arch
+RID5810     plate-like
+RID5811     linear
+RID5812     wedge-shaped
+RID5813     beaded
+RID5814     spoke-wheel
+RID5815     straightened
+RID5816     curved
+RID5818     anterior
+RID5819     posterior
+RID582      brachiocephalic artery
+RID5820     medial
+RID5821     laterality
+RID5822     superior
+RID5823     inferior
+RID5824     left
+RID5825     right
+RID5827     central
+RID5828     peripheral
+RID5829     proximal
+RID5830     distal
+RID5831     cranial
+RID5832     caudal
+RID5833     apical
+RID5834     basilar
+RID5835     deep position
+RID5836     superficial
+RID5837     depressed position
+RID5838     detached
+RID5839     deviated
+RID584      common carotid artery
+RID5840     displaced
+RID5841     ectopic
+RID5842     elevated position
+RID5843     inverted
+RID5844     retracted
+RID5845     shifted
+RID5846     median
+RID5847     dorsal
+RID5848     ventral
+RID5849     adjacent
+RID585      internal carotid artery
+RID5850     prolapsed
+RID5852     horizontal
+RID5853     vertical
+RID5854     transverse
+RID5855     longitudinal
+RID5857     radial
+RID5858     concentric
+RID5859     eccentric
+RID5860     sagittal
+RID5861     coronal
+RID5864     aerated
+RID5865     amorphous
+RID5866     aphthous
+RID5867     atrophic
+RID5868     bilobed
+RID5869     blunted
+RID587      carotid sinus
+RID5870     bulky
+RID5871     compressed
+RID5872     conglomerate
+RID5873     consolidated
+RID5874     discoid
+RID5875     distorted
+RID5876     emphysematous
+RID5877     eroded
+RID5878     fatty
+RID5879     fibrous
+RID5880     flattened
+RID5881     fungating
+RID5882     fusiform
+RID5883     hydrated
+RID5884     hyperinflated
+RID5885     impinged
+RID5886     indented
+RID5887     invaginated
+RID5889     lipid
+RID589      vidian artery
+RID5890     mixed
+RID5891     multilocular
+RID5892     narrowed
+RID5893     obstructed
+RID5894     occluded
+RID5895     patent
+RID5896     patulous
+RID5897     plaquelike
+RID5898     pleomorphic
+RID5899     puckered
+RID5900     punctate
+RID5901     reconstructed
+RID5902     reticular
+RID5903     retractile
+RID5904     ruptured
+RID5905     scarred
+RID5906     sclerosing
+RID5907     septated
+RID5908     serpentine
+RID5909     serpiginous
+RID5910     shallow
+RID5911     sharp
+RID5912     smooth
+RID5913     tethered
+RID5914     thickened
+RID5915     thinned
+RID5916     tortuous
+RID5917     truncated
+RID5918     ulcerated
+RID5919     unilocular
+RID5920     varicoid
+RID5922     sliding
+RID5923     pulsatile
+RID5924     mobile
+RID5925     in transit
+RID5926     immobile
+RID5928     biphasic flow
+RID5929     triphasic flow
+RID5931     laminar flow
+RID5932     turbulent flow
+RID5933     reversed flow
+RID5935     regurgitant flow
+RID5936     retrograde flow
+RID5938     jet flow
+RID5940     systolic flow
+RID5941     diastolic flow
+RID5942     peak flow
+RID5943     arterial flow
+RID5944     venous flow
+RID5946     apex
+RID5948     atria
+RID5949     base
+RID5950     body
+RID5951     border
+RID5952     major part
+RID5954     ascending
+RID5955     descending
+RID5956     contents
+RID5957     contour
+RID5958     distribution pattern
+RID5960     folds
+RID5962     hilum
+RID5963     infundibulum
+RID5964     insertion
+RID5965     lining
+RID5967     lobe
+RID5968     lobule
+RID5969     lumen
+RID5970     True lumen
+RID5971     False lumen
+RID5972     margin
+RID5974     middle
+RID5975     mucosa
+RID5976     origin
+RID5978     parenchyma
+RID5980     rim
+RID5981     roof
+RID5982     septae
+RID5983     submucosa
+RID5985     undersurface
+RID5986     tumor vascularity
+RID5987     wall
+RID5989     medulla
+RID5990     muscularis
+RID5991     serosa
+RID5993     pole
+RID6020     clock face position
+RID6034     radiopacity
+RID6035     radiopaque
+RID6037     attenuation characteristic
+RID6038     high attenuation
+RID6039     low attenuation
+RID6040     isoattenuating
+RID6042     hypodense
+RID6043     equal density
+RID6044     hyperdense
+RID6046     hypoechoic
+RID6047     isoechoic
+RID6048     hyperechoic
+RID6049     signal characteristic
+RID6050     low signal intensity
+RID6051     intermediate signal intensity
+RID6052     high signal intensity
+RID6053     isointense
+RID6055     enhancing
+RID6056     nonenhancing
+RID6057     isoenhancing
+RID6058     enhancement pattern
+RID6059     homogeneous
+RID6060     heterogeneous
+RID6061     circumferential enhancement
+RID6064     flexor muscle
+RID6067     tendon
+RID6069     tendon sheath
+RID607      ophthalmic artery
+RID6073     fibrocartilage
+RID6074     articular cartilage
+RID6079     articular disc
+RID608      central retinal artery
+RID6084     symphysis
+RID6093     synostosis
+RID6098     bone region
+RID6103     diaphysis
+RID6105     epiphysis
+RID6106     trabecular bone
+RID6108     periosteum
+RID6109     endosteum
+RID6113     physis
+RID6115     medullary cavity
+RID6117     metaphysis
+RID6118     facet
+RID6120     subchondral bone
+RID6122     joint
+RID6123     long
+RID6124     tubular
+RID6126     end plate
+RID6128     lateral recess
+RID6129     pars interarticularis
+RID6134     transverse process
+RID6135     spinal canal
+RID6141     cervical spine descriptor
+RID6181     C1/C2
+RID6182     C2/C3
+RID6183     C3/C4
+RID6184     C4/C5
+RID6185     C5/C6
+RID6186     C6/C7
+RID6187     C7/T1
+RID6189     T1/T2
+RID6190     T2/T3
+RID6191     T3/T4
+RID6193     T5/T6
+RID6194     T6/T7
+RID6195     T7/T8
+RID6196     T8/T9
+RID6197     T9/T10
+RID6198     T10/T11
+RID6199     T11/T12
+RID6200     T12/L1
+RID6202     L1/L2
+RID6203     L2/L3
+RID6204     L3/L4
+RID6205     L4/L5
+RID6206     L5/S1
+RID6208     S1/S2
+RID6210     S3/S4
+RID6214     asterion
+RID6224     lambda
+RID6227     occiput
+RID6236     vertex
+RID6237     zygion
+RID6241     type III acromion
+RID6243     annulus fibrosus
+RID6247     intramural
+RID6248     extramural
+RID6249     intraperitoneal
+RID625      muscular artery
+RID6250     extraperitoneal
+RID6251     interstitial
+RID6254     media layer
+RID6260     incarcerated hernia
+RID6261     strangulated hernia
+RID6263     exophytic
+RID6264     intraparenchymal
+RID6266     crossed
+RID6267     uncrossed
+RID6268     fused
+RID6269     unfused
+RID6270     varices descriptor
+RID6271     uphill
+RID6272     downhill
+RID6273     polyp morphology characteristic
+RID6274     villous
+RID6275     adenomatous
+RID6276     hyperplastic
+RID6277     flat
+RID6278     on a stalk
+RID6279     sessile
+RID6280     cardiomyopathy descriptor
+RID6281     congestive
+RID6282     infiltrative
+RID6283     restrictive
+RID6284     hypertrophic
+RID6285     ischemic
+RID6288     monoarticular
+RID6289     polyarticular
+RID6292     seronegative
+RID6293     seropositive
+RID6294     periarticular
+RID6297     osteolytic
+RID6298     osteosclerotic
+RID6299     destruction pattern
+RID6301     moth-eaten pattern
+RID6302     permeative destruction pattern
+RID6304     disc location
+RID6305     extraforaminal
+RID6306     foraminal
+RID6307     paraspinal
+RID6308     subarticular
+RID6315     central plane
+RID6322     anterior plane
+RID6324     extraligamentous
+RID6326     subligamentous
+RID6327     submembranous
+RID6330     cartilaginous
+RID6331     collagenous
+RID6333     gaseous
+RID6334     liquefied
+RID6335     nuclear
+RID6336     osseous
+RID6339     fatigue fracture
+RID6341     comminuted fracture
+RID6342     closed fracture
+RID6343     open fracture
+RID6344     depression fracture
+RID6345     diaphyseal fracture
+RID6346     intraarticular fracture
+RID6347     periprosthetic fracture
+RID6352     healing
+RID6353     healed
+RID6355     non-union
+RID6357     grade I chondromalacia
+RID6358     grade II chondromalacia
+RID6359     grade III chondromalacia
+RID6360     grade IV chondromalacia
+RID6362     virilizing
+RID6364     feminizing
+RID6366     transudate
+RID6367     exudate
+RID6368     chylous
+RID6369     aortic dissection descriptor
+RID6370     Stanford type A
+RID6371     Stanford type B
+RID6372     DeBakey type I
+RID6374     DeBakey type III
+RID6376     cavernous
+RID6377     dural based
+RID6378     epidural
+RID6379     extracranial
+RID6380     extraaxial
+RID6381     infratentorial
+RID6382     intraaxial
+RID6383     intracranial
+RID6385     petrous
+RID6386     subarachnoid
+RID6387     subcortical
+RID6388     subdural
+RID6389     supratentorial
+RID6392     temporal brain region
+RID6399     alobar
+RID6400     semilobar
+RID6401     gyriform
+RID6402     hemispheric
+RID6403     leptomeningeal
+RID6404     pachymeningeal
+RID6405     suprasellar
+RID6406     territorial
+RID6407     transependymal
+RID6408     watershed
+RID6411     feeding artery
+RID6413     orthopedic implant
+RID6417     treatment technique
+RID6419     radical
+RID642      posterior communicating artery
+RID6420     modified radical
+RID6421     laparoscopic
+RID6422     transperineal
+RID6423     retropubic
+RID6424     transcutaneous
+RID6425     transurethral
+RID6427     transabdominal
+RID6428     laser treatment
+RID6430     end-to-end anastomosis
+RID6431     end-to-side anastomosis
+RID6432     side-to-side anastomosis
+RID6434     brain
+RID6437     telencephalon
+RID6440     frontal lobe
+RID6456     central sulcus
+RID6463     diagonal band
+RID6466     olfactory bulb
+RID6467     olfactory tract
+RID6472     insula
+RID6476     temporal lobe
+RID648      anterior cerebral artery
+RID6494     postcentral gyrus
+RID6499     postcentral sulcus
+RID6502     occipital lobe
+RID6527     cavum septi pellucidi
+RID6529     hippocampus
+RID6544     corpus striatum
+RID6545     caudate nucleus
+RID6551     putamen
+RID6566     diencephalon
+RID6576     pineal gland
+RID6578     thalamus
+RID6581     interthalamic adhesion
+RID6584     pulvinar
+RID6620     thalamic tract
+RID6625     acoustic radiation
+RID6639     hypothalamus
+RID6641     optic chiasm
+RID665      middle cerebral artery
+RID6677     brainstem
+RID6728     pons
+RID6768     midbrain
+RID6815     cerebellum
+RID6834     declive
+RID684      external carotid artery
+RID6864     flocculus
+RID6888     dentate nucleus
+RID6892     cerebellar peduncle
+RID69       left lobe of liver
+RID6905     claustrum
+RID6908     external capsule
+RID6909     extreme capsule
+RID6911     anterior commissure
+RID6915     corpus callosum
+RID6931     short association fiber
+RID6941     internal capsule
+RID6959     semioval center
+RID6998     frontal eye fields
+RID701      facial artery
+RID7035     olfactory cortex
+RID7093     dura mater
+RID7094     falx cerebri
+RID7097     falx cerebelli
+RID7109     arachnoid granulation
+RID711      occipital artery
+RID7111     epidural space
+RID7119     subarachnoid space
+RID7120     subdural space
+RID7121     subgaleal space
+RID7123     cerebral ventricle
+RID7124     lateral ventricle
+RID7137     third ventricle
+RID7147     fourth ventricle
+RID7181     cisterna magna
+RID7195     peripheral nerve
+RID7201     phrenic nerve
+RID7202     brachial plexus
+RID7206     long thoracic nerve
+RID7211     suprascapular nerve
+RID7240     axillary nerve
+RID7243     musculocutaneous nerve
+RID7246     median nerve
+RID7248     anterior interosseous nerve
+RID7257     radial nerve
+RID726      superficial temporal artery
+RID7273     ulnar nerve
+RID7284     lumbar plexus
+RID7288     ilioinguinal nerve
+RID7289     genitofemoral nerve
+RID7293     obturator nerve
+RID7297     femoral nerve
+RID7306     saphenous nerve
+RID7308     sacral plexus
+RID7312     pudendal nerve
+RID7330     sciatic nerve
+RID7331     tibial nerve
+RID7333     medial plantar nerve
+RID734      maxillary artery
+RID7342     lateral plantar nerve
+RID7347     sural nerve
+RID7348     common peroneal nerve
+RID7359     deep peroneal nerve
+RID7361     spinal cord
+RID7367     filum terminale
+RID74       right lobe of liver
+RID7404     white matter of spinal cord
+RID742      middle meningeal artery
+RID7435     spinal nerve
+RID7447     dorsal root ganglion
+RID7448     cervical plexus
+RID7456     lumbosacral plexus
+RID7467     procedure step
+RID7470     hepatobiliary surgery
+RID7471     short
+RID7472     traction device
+RID7475     cavitary
+RID7478     medication
+RID7488     neck
+RID7495     scalene muscle
+RID7496     anterior scalene muscle
+RID7497     middle scalene muscle
+RID7500     sternocleidomastoid muscle
+RID7519     sternohyoid muscle
+RID7520     omohyoid muscle
+RID7527     hyoid bone
+RID7530     soft tissue of neck
+RID7541     pharyngeal space
+RID7558     cricopharyngeus
+RID7568     carotid space
+RID7570     parotid space
+RID7571     danger space
+RID7578     thyroid gland
+RID7587     parathyroid gland
+RID7589     larynx
+RID7590     thyroid cartilage
+RID7653     supraglottis
+RID7657     epiglottis
+RID7672     glottis
+RID7673     vocal fold
+RID7674     rima glottidis
+RID7694     thoracic duct
+RID77       caudate lobe of liver
+RID773      subclavian artery
+RID774      vertebral artery
+RID7741     spine
+RID7743     vertebral body
+RID7745     atlas
+RID7747     axis
+RID7749     dens
+RID7770     lumbar vertebral body
+RID78       bare area of liver
+RID7829     alar ligament
+RID7833     transverse ligament
+RID7835     cruciate ligament
+RID7842     anterior atlantoaxial ligament
+RID7848     nuchal ligament
+RID7850     ligamentum flavum
+RID7853     anterior longitudinal ligament
+RID7885     intervertebral foramen
+RID7890     intervertebral disk
+RID7907     uncovertebral joint
+RID791      basilar artery
+RID7913     atlantoaxial joint
+RID8        treatment
+RID80       porta Hepatis
+RID81       falciform ligament
+RID835      musculophrenic artery
+RID853      costocervical trunk
+RID86       spleen
+RID860      axillary artery
+RID865      brachial artery
+RID866      radial artery
+RID867      deep palmar arch
+RID870      ulnar artery
+RID871      superficial palmar arch
+RID879      thoracic aorta
+RID88       adrenal gland
+RID880      bronchial artery
+RID905      abdominal aorta
+RID906      celiac artery
+RID908      left gastric artery
+RID9080     head
+RID9082     mandible
+RID909      common hepatic artery
+RID910      gastroduodenal artery
+RID9118     mandibular foramen
+RID9120     mandibular canal
+RID9123     mandibular notch
+RID9125     tooth
+RID9126     canine tooth
+RID9127     incisor tooth
+RID9128     molar tooth
+RID9129     premolar tooth
+RID9131     deciduous tooth
+RID9133     crown of tooth
+RID914      proper hepatic artery
+RID916      left hepatic artery
+RID918      right hepatic artery
+RID919      cystic artery
+RID9196     skull
+RID9199     ethmoid bone
+RID9200     cribriform plate
+RID9202     crista galli
+RID9207     frontal bone
+RID921      splenic artery
+RID9214     supraorbital foramen
+RID9236     maxilla
+RID927      superior mesenteric artery
+RID9280     parietal bone
+RID9281     sphenoid bone
+RID9311     foramen ovale
+RID9312     foramen rotundum
+RID9313     foramen spinosum
+RID932      jejunal artery
+RID9330     occipital bone
+RID9332     clivus
+RID9335     foramen magnum
+RID934      ileocolic artery
+RID935      adrenal artery
+RID9353     occipital plane
+RID936      renal artery
+RID9361     temporal bone
+RID937      gonadal artery
+RID9372     carotid canal
+RID9374     vertical segment of carotid canal
+RID938      lumbar artery
+RID939      inferior mesenteric artery
+RID9392     internal auditory canal
+RID9394     vertical crest of internal auditory canal
+RID9395     facial area of internal auditory canal
+RID9396     cochlear area of internal auditory canal
+RID94       gastrointestinal tract
+RID9407     jugular fossa
+RID941      sigmoid artery
+RID9410     mastoid canaliculus
+RID9417     tympanic canaliculus
+RID9419     eustachian tube
+RID945      internal iliac artery
+RID9458     zygomatic bone
+RID9470     nasal bone
+RID9471     lacrimal bone
+RID948      iliolumbar artery
+RID949      superior gluteal artery
+RID9497     foramen lacerum
+RID95       esophagus
+RID9501     jugular foramen
+RID9505     palatovaginal canal
+RID9511     sphenopalatine foramen
+RID9514     canal of Arnold
+RID9532     nasal cavity
+RID9547     olfactory area
+RID955      uterine artery
+RID9555     frontal sinus
+RID9557     maxillary sinus
+RID9558     ostiomeatal unit
+RID9561     ethmoid sinus
+RID9566     ethmoidal bulla
+RID957      external iliac artery
+RID9573     orbit
+RID958      common femoral artery
+RID959      deep femoral artery
+RID9606     cornea
+RID962      popliteal artery
+RID9651     retina
+RID9671     fovea centralis
+RID9701     superior rectus muscle
+RID9702     inferior rectus muscle
+RID974      pulmonary artery
+RID975      main pulmonary artery
+RID976      right pulmonary artery
+RID9761     lacrimal gland
+RID9802     cranial suture
+RID9806     sagittal suture
+RID9908     masseter muscle
+RID9912     temporalis muscle
+RID9919     scalp
+RID9922     mouth
+RID9938     oral cavity
+RID9940     bony palate
+RID9943     uvula
+RID9951     sublingual caruncle
+RID9968     submandibular gland
+RID9970     tongue
+RID9990     nasopharynx
+RID9995     torus tubarius
