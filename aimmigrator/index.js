@@ -1,9 +1,10 @@
 // note: output folder must be present for files to be created in the folder
 
 // change templateData to path of template file
-const templateData = require('./data/99EPAD_947_2.25.182468981370271895711046628549377576999.json');
 const fs = require("fs");
 const { parse } = require("csv-parse");
+const readline = require('readline-sync');
+const templateData = require('./data/99EPAD_947_2.25.182468981370271895711046628549377576999.json');
 
 
 // Radiology Specialty
@@ -293,11 +294,11 @@ for (let i = 0; i < diagnosisTerms.length; i++) {
 
 
 
-
+let csvFilename = readline.question("Enter CSV file name: ");
 
 // reads data from CSV file and generates AIMs
 let csvData = [];
-fs.createReadStream("./data/All_TF_Cases_July_8_2022_NO_PHI.xlsx - All Specialties - NO PHI.csv") // edit to match CSV file path
+fs.createReadStream("./data/" + csvFilename) // edit to match CSV file path
     .pipe(
         parse({
             delimiter: ",",
